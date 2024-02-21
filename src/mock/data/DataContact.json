@@ -1,0 +1,90 @@
+[
+  {
+    "contactId": "0ba47fad-4a92-41e1-a870-786fefb01fed",
+    "contactName": "Marco",
+    "contactType": "FAMILY",
+    "gender": "MALE",
+    "imageURL": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?crop=faces&fit=crop&h=200&w=200&auto=compress&cs=tinysrgb",
+    "online": true,
+    "lastChange": 0,
+    "presenceDevices": [
+      {
+        "hwAddress": "02:00:00:00:00:01",
+        "bestType": "MOBILE",
+        "bestName": "iPhone-di-Marco",
+        "digitalPresence": true
+      }
+    ],
+    "otherDevices": [
+      {
+        "hwAddress": "02:00:00:00:01:01",
+        "bestType": "LAPTOP",
+        "bestName": "Macbook-di-Marco",
+        "digitalPresence": false
+      }
+    ]
+
+  },
+  {
+    "contactId": "32c54cc7-962e-40b0-997e-64d50c097014",
+    "contactName": "Gilberto Jil Do Nascimiento",
+    "contactType": "HIM",
+    "gender": "MALE",
+    "imageURL": "https://randomuser.me/api/portraits/men/95.jpg",
+    "online": true,
+    "lastChange": 0,
+    "presenceDevices": [
+      {
+        "hwAddress": "02:00:00:00:00:02",
+        "bestType": "MOBILE",
+        "bestName": "iPhone-de-Gilberto",
+        "digitalPresence": true
+      }
+    ],
+    "otherDevices" : [
+      {
+        "hwAddress": "02:00:00:00:00:03",
+        "bestType": "WATCH",
+        "bestName": "Reloje-de-Gilberto",
+        "digitalPresence": false
+      },
+      {
+        "hwAddress": "02:00:00:00:00:04",
+        "bestType": "TABLET",
+        "bestName": "iPad-de-Gilberto"
+      }
+    ]
+  },
+  {
+    "contactId": "98104f5f-dbc0-4049-87d4-cbd8793d8289",
+    "contactName": "Tamara",
+    "contactType": "HER",
+    "gender": "FEMALE",
+    "imageURL": "https://uifaces.co/our-content/donated/3799Ffxy.jpeg",
+    "online": false,
+    "lastChange": 0,
+    "presenceDevices": [
+      {
+        "hwAddress": "A0:78:17:8B:37:44",
+        "bestType": "LAPTOP",
+        "bestName": "FVFFD20GQ05P",
+        "digitalPresence": true
+      }
+    ]
+  },
+  {
+    "contactId": "e966042b-461d-4777-9696-8f1539e7281b",
+    "contactName": "Jack",
+    "contactType": "DOG",
+    "online": false,
+    "lastChange": 0,
+    "presenceDevices": [
+      {
+        "hwAddress": "02:00:00:00:00:06",
+        "bestType": "MOBILE",
+        "bestName": "Jacks-iPhone",
+        "digitalPresence": true
+      }
+    ]
+  }
+]

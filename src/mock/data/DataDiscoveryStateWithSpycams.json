@@ -1,0 +1,4708 @@
+{
+    "engine_state": "completed",
+    "progress": "100",
+    "discovery":
+    {
+        "result_state": "enriched",
+        "last_scan_timestamp": "1643290882380",
+        "time_zone": "CET",
+        "nodes_count": "22",
+        "nodes_up_count": "12",
+        "networkID": "wifi-506A03C0B4BF",
+        "lastContactsChangeTime": "1638884709931",
+        "network":
+        {
+            "address_type": "NTYPE_WIFI",
+            "name": "Fing",
+            "firstDiscoveryTime": "1629374759526",
+            "sortOrder": "SOTYPE_STATE",
+            "nodeViewFormat": "NVF_SIMPLE",
+            "context": "OFFICE",
+            "internetspeedrating":
+            {
+                "timestamp": "1638449542553",
+                "name": "overall",
+                "rating": "100",
+                "subject":
+                {
+                    "isp":
+                    {
+                        "name": "COLT",
+                        "country": "IT",
+                        "region": "Latium",
+                        "city": "Rome"
+                    }
+                },
+                "comment": "Ciao"
+            },
+            "bssid": "50:6A:03:C0:B4:BF",
+            "address": "192.168.1.0\/24",
+            "mask_prefix_length": "24",
+            "gateway_ip_address": "192.168.1.1",
+            "gateway_mac_address": "50:6A:03:C0:B4:C0",
+            "dns_address": "192.168.1.1",
+            "autoistconfig":
+            [
+                "16",
+                "17",
+                "10"
+            ]
+        },
+        "lastinternetspeedtest":
+        {
+            "timestamp": "1643279044923",
+            "downloadbps": "332591000",
+            "uploadbps": "398964000",
+            "downloadInfo":
+            {
+                "serverHost": "ndt-mlab2-mil07.mlab-oti.measurement-lab.org",
+                "serverCountry": "IT",
+                "serverCity": "Milan",
+                "transferredBytes": "421298176"
+            },
+            "uploadInfo":
+            {
+                "serverHost": "ndt-mlab2-mil07.mlab-oti.measurement-lab.org",
+                "serverCountry": "IT",
+                "serverCity": "Milan",
+                "transferredBytes": "500301824"
+            },
+            "nicInfo":
+            {
+                "hardwareaddress": "3C:06:30:2A:81:31",
+                "type": "WIFI",
+                "state": "ACTIVE",
+                "addrmode": "DHCP",
+                "dhcpserver": "192.168.1.1",
+                "uplinknominalrate": "304200000",
+                "downlinknominalrate": "304200000",
+                "uplinkeffectiverate": "209350000",
+                "downlinkeffectiverate": "209350000",
+                "apbssid": "50:6A:03:C0:B4:BF",
+                "apssid": "Fing",
+                "signalstrength": "-51",
+                "channel": "153"
+            },
+            "rtd": "36",
+            "rtd_loss_perc": "0",
+            "rtd_jitter": "1.1111111111111112"
+        },
+        "internetinfo":
+        {
+            "isp":
+            {
+                "country_city": "Rome",
+                "address": "87.241.41.114",
+                "host_name": "87.241.41.114",
+                "latitude": "41.900799999999997",
+                "longitude": "12.487399999999999",
+                "timezone": "Europe\/Rome",
+                "organization": "COLT Technology Services Group Limited",
+                "isp": "COLT Technology Services Group Limited",
+                "country_name": "Italy",
+                "country_region": "Latium",
+                "country_code": "IT",
+                "continent_code": "EU",
+                "asn": "8220"
+            },
+            "ispinfo":
+            {
+                "id": "colt",
+                "countrycode": "IT",
+                "name": "COLT",
+                "logoimageurl": "\/isp\/IT\/logo\/colt_logo.png",
+                "bannerimageurl": "\/isp\/IT\/banner\/colt_banner.png",
+                "wikipediaid": "COLT_Technology_Services",
+                "wikipedialangcode": "it",
+                "websiteurl": "https:\/\/www.colt.net",
+                "supporturl": "https:\/\/www.colt.net\/it\/support\/",
+                "supportphone": "192 090",
+                "supportfacebookaccount": "ColtTechnologyServices",
+                "supporttwitteraccount": "colt_technology",
+                "business": "true",
+                "fiber": "false",
+                "cellular": "false",
+                "residential": "false",
+                "organization": "false",
+                "ispstats":
+                {
+                    "country": "IT",
+                    "city": "Rome",
+                    "isp": "COLT",
+                    "downloadSpeedMbpsAvg": "119.92816735040068",
+                    "uploadSpeedMbpsAvg": "123.60452741894787",
+                    "samples": "21",
+                    "downloadSpeedMbpsMin": "0.40600000000000003",
+                    "uploadSpeedMbpsMin": "7.0270000000000001",
+                    "downloadSpeedMbpsMax": "319.33999999999997",
+                    "uploadSpeedMbpsMax": "383.08999999999997",
+                    "downloadSpeedMbpsStd": "79.191112085595449",
+                    "uploadSpeedMbpsStd": "101.04171814788845",
+                    "score": "0.66999999999999993",
+                    "type": "BOX_MOBILE_WIFI",
+                    "sentiment": "70",
+                    "totalRatings": "6",
+                    "sentimentDistrib":
+                    [
+                        "0",
+                        "2",
+                        "0",
+                        "3",
+                        "1"
+                    ],
+                    "globalScore": "0.97799999999999998",
+                    "distribution": "0.0069860279441117763",
+                    "ispId": "Colt",
+                    "countryCode": "IT",
+                    "downloadSpeedTrend": "0.11534843285415115",
+                    "uploadSpeedTrend": "-0.069162804901233069",
+                    "scoreTrend": "-0.0074074074074075777",
+                    "globalScoreTrend": "0",
+                    "sentimentTrend": "-0.16666666666666666",
+                    "distributionTrend": "0.019523453093812398"
+                },
+                "outagesSummary":
+                {
+                    "startTime": "1642686082380",
+                    "endTime": "1643290882380",
+                    "totOutages": "0",
+                    "maxSeverity": "0"
+                },
+                "homeprovider": "true"
+            }
+        },
+        "nicinfo":
+        {
+            "name": "en0",
+            "description": "en0",
+            "hardwareaddress": "3C:06:30:2A:81:31",
+            "gatewayAddress": "192.168.1.1",
+            "defaultGateway": "true",
+            "address_list":
+            [
+                "192.168.1.36\/24 [192.168.1.255]",
+                "FE80:0000:0000:0000:006E:8FA0:A019:86CA\/128"
+            ],
+            "address": "192.168.1.36",
+            "netmask": "192.168.1.0\/24",
+            "type": "WIFI",
+            "state": "ACTIVE",
+            "addrmode": "DHCP",
+            "dhcpserver": "192.168.1.1",
+            "uplinknominalrate": "304200000",
+            "downlinknominalrate": "304200000",
+            "uplinkeffectiverate": "204850000",
+            "downlinkeffectiverate": "204850000",
+            "apbssid": "50:6A:03:C0:B4:BF",
+            "apssid": "Fing",
+            "signalstrength": "-52",
+            "channel": "153",
+            "tethered": "false",
+            "advanced": "false"
+        },
+        "dhcpservers":
+        [
+            {
+                "ip": "192.168.1.1",
+                "mac": "50:6A:03:C0:B4:C0",
+                "leaseTime": "86400000",
+                "netmask": "255.255.255.0",
+                "network": "192.168.1.0\/24",
+                "networkSize": "256",
+                "gateway": "192.168.1.1",
+                "dnsservers":
+                [
+                    {
+                        "dns": "192.168.1.1"
+                    }
+                ],
+                "mtu": "0"
+            }
+        ],
+        "nodes":
+        [
+            {
+                "mac_address": "BC:15:AC:8E:1B:81",
+                "address_list":
+                [
+                    "192.168.1.1"
+                ],
+                "state": "UP",
+                "customType": "ROUTER",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "Vodafone Station",
+                "best_type_id": "70",
+                "best_make_id": "7779",
+                "best_model_id": "130072",
+                "best_type": "ROUTER",
+                "best_make": "Vodafone",
+                "best_model": "Station Revolution",
+                "recog_rank": "40",
+                "host_name": "vodafone",
+                "mac_vendor": "Vodafone",
+                "mac_vendor_changed": "1452902400000",
+                "lastTcpServiceScanShot":
+                {
+                    "timestamp": "1643299036270",
+                    "activePorts":
+                    [
+                        "139"
+                    ]
+                },
+                "leads":
+                [
+                    {
+                        "recog_type": "H:UPnP",
+                        "type": "ROUTER",
+                        "market_make": "Vodafone",
+                        "make": "VODAFONE",
+                        "market_model": "Revolution",
+                        "model": "Revolution",
+                        "recog_rank": "40"
+                    },
+                    {
+                        "recog_type": "H:DS-ML",
+                        "type": "WIFI",
+                        "market_make": "VODAFONE",
+                        "make": "VODAFONE",
+                        "market_model": "REVOLUTION",
+                        "recog_rank": "30"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "WIFI",
+                        "market_make": "VODAFONE",
+                        "make": "VODAFONE",
+                        "market_model": "REVOLUTION",
+                        "model": "REVOLUTION",
+                        "recog_rank": "26"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "WIFI",
+                        "market_make": "VODAFONE",
+                        "make": "VODAFONE",
+                        "market_model": "REVOLUTION",
+                        "model": "REVOLUTION",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:USRTYPE-MACCLS",
+                        "type": "ROUTER",
+                        "recog_rank": "5"
+                    }
+                ],
+                "netbios":
+                {
+                    "name": "VODAFONE",
+                    "domain": "HOME",
+                    "user": "VODAFONE",
+                    "is_file_server": "1"
+                },
+                "upnp":
+                {
+                    "name": "Vodafone Station",
+                    "make": "Vodafone",
+                    "model": "Revolution",
+                    "serialNumber": "8.3",
+                    "type_list":
+                    [
+                        "urn:pv-com:device:NMCQueueHandlerDevice:1",
+                        "urn:schemas-upnp-org:device:InternetGatewayDevice:2",
+                        "urn:schemas-upnp-org:device:LANDevice:1",
+                        "urn:schemas-upnp-org:device:MediaServer:1",
+                        "urn:schemas-upnp-org:device:WANDevice:2"
+                    ],
+                    "service_list":
+                    [
+                        "urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1",
+                        "urn:schemas-upnp-org:service:ConnectionManager:1",
+                        "urn:schemas-upnp-org:service:ContentDirectory:1",
+                        "urn:schemas-upnp-org:service:LANHostConfigManagement:1",
+                        "urn:schemas-upnp-org:service:Layer3Forwarding:1",
+                        "urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1"
+                    ]
+                },
+                "smbInfo":
+                {
+                    "timestamp": "1643809765894",
+                    "nativeOS": "Unix",
+                    "nativeLM": "Samba 3.0.28"
+                }
+            },
+            {
+                "mac_address": "08:C5:E1:30:BD:8B",
+                "address_list":
+                [
+                    "192.168.1.2"
+                ],
+                "state": "UP",
+                "customName": "samsung SM-G960F",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "1643787447766",
+                "prevstatetime": "1643783543774",
+                "statechangetimeout": "-600000",
+                "best_name": "samsung SM-G960F",
+                "best_type_id": "2",
+                "best_make_id": "4819",
+                "best_model_id": "149757",
+                "best_os_id": "2722",
+                "best_type": "MOBILE",
+                "best_make": "Samsung",
+                "best_model": "Galaxy S",
+                "best_os": "Android",
+                "best_osver": "10",
+                "best_family": "Galaxy",
+                "best_family_id": "106468",
+                "recog_rank": "29",
+                "ownerName": "Giuseppe",
+                "host_name": "Galaxy-S9-di-Giuseppe.station",
+                "mac_vendor": "Samsung",
+                "mac_vendor_changed": "1518566400000",
+                "last_dhcp_request_time": "1643805620150",
+                "logs":
+                [
+                    {
+                        "time": "1643787447766",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643787447766"
+                    },
+                    {
+                        "time": "1643786235278",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643783543774"
+                    },
+                    {
+                        "time": "1643729773348",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643729773348"
+                    },
+                    {
+                        "time": "1643729511684",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643728873317"
+                    },
+                    {
+                        "time": "1643723457996",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643722760277"
+                    },
+                    {
+                        "time": "1643717181757",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643715353116"
+                    },
+                    {
+                        "time": "1643701699118",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643701699118"
+                    },
+                    {
+                        "time": "1643698056988",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643697150884"
+                    },
+                    {
+                        "time": "1643665233057",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643664325852"
+                    },
+                    {
+                        "time": "1643663435860",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643662510527"
+                    },
+                    {
+                        "time": "1643655191223",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643655191223"
+                    },
+                    {
+                        "time": "1643654273498",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643653383398"
+                    },
+                    {
+                        "time": "1643643593325",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643643593325"
+                    },
+                    {
+                        "time": "1643638139207",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643637232922"
+                    },
+                    {
+                        "time": "1643634456353",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643633539644"
+                    },
+                    {
+                        "time": "1643632674735",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643631736654"
+                    },
+                    {
+                        "time": "1643627164081",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643627164081"
+                    },
+                    {
+                        "time": "1643627010135",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643626274112"
+                    },
+                    {
+                        "time": "1643479733003",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643479733003"
+                    },
+                    {
+                        "time": "1643476993189",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643476092234"
+                    },
+                    {
+                        "time": "1643476092234",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643476092234"
+                    },
+                    {
+                        "time": "1643472326986",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643471430363"
+                    },
+                    {
+                        "time": "1643457746662",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643457671048"
+                    },
+                    {
+                        "time": "1643451322171",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643450379820"
+                    },
+                    {
+                        "time": "1643396470431",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643395546549"
+                    },
+                    {
+                        "time": "1643394668358",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643393770467"
+                    },
+                    {
+                        "time": "1643387173257",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643387173257"
+                    },
+                    {
+                        "time": "1643386269446",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643385301537"
+                    },
+                    {
+                        "time": "1643368306161",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643368306161"
+                    },
+                    {
+                        "time": "1643367406123",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643366506044"
+                    },
+                    {
+                        "time": "1643308767325",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643308767325"
+                    },
+                    {
+                        "time": "1643307867303",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643300008073"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "MOBILE",
+                        "market_make": "SAMSUNG",
+                        "make": "SAMSUNG",
+                        "market_model": "GALAXY S",
+                        "model": "GALAXY S",
+                        "os": "Android",
+                        "recog_rank": "25"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "MOBILE",
+                        "market_make": "SAMSUNG",
+                        "make": "SAMSUNG",
+                        "market_model": "GALAXY S",
+                        "model": "GALAXY S",
+                        "os": "Android",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "MOBILE",
+                        "market_make": "Samsung",
+                        "make": "SAMSUNG",
+                        "market_model": "Galaxy S9",
+                        "model": "Galaxy S9",
+                        "os": "Android",
+                        "osver": "10",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "MOBILE",
+                        "market_make": "SAMSUNG",
+                        "make": "SAMSUNG",
+                        "market_model": "GALAXY S9",
+                        "model": "GALAXY S9",
+                        "os": "Android",
+                        "recog_rank": "7"
+                    },
+                    {
+                        "recog_type": "H:USRTYPE-MACCLS",
+                        "type": "MOBILE",
+                        "recog_rank": "5"
+                    }
+                ],
+                "dhcp":
+                {
+                    "name": "Galaxy-S9-di-Giuseppe",
+                    "vendor": "android-dhcp-10",
+                    "params": "1,3,6,15,26,28,51,58,59,43"
+                }
+            },
+            {
+                "mac_address": "F8:BB:BF:1B:12:12",
+                "address_list":
+                [
+                    "192.168.1.3"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "eero-f8:bb:bf:1b:12:00",
+                "best_type_id": "70",
+                "best_make_id": "8033",
+                "best_model_id": "73808",
+                "best_type": "WIFI",
+                "best_make": "eero",
+                "best_model": "eero",
+                "recog_rank": "20",
+                "host_name": "eero.station",
+                "mac_vendor": "eero",
+                "mac_vendor_changed": "1478563200000",
+                "leads":
+                [
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "WIFI",
+                        "market_make": "eero",
+                        "make": "EERO",
+                        "market_model": "eero",
+                        "model": "eero",
+                        "recog_rank": "20"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "WIFI",
+                        "market_make": "EERO",
+                        "make": "EERO",
+                        "market_model": "EERO",
+                        "model": "EERO",
+                        "recog_rank": "18"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "WIFI",
+                        "market_make": "EERO",
+                        "make": "EERO",
+                        "market_model": "EERO",
+                        "model": "EERO",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:USRTYPE-MACCLS",
+                        "type": "ROUTER",
+                        "recog_rank": "5"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "eero-f8:bb:bf:1b:12:00",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "eero-thread-default._meshcop._udp.local.",
+                            "addinfos":
+                            {
+                                "nn": "eero-thread",
+                                "tv": "0.0.0",
+                                "vd": "0.1.0",
+                                "vo": "\u0014\"�"
+                            }
+                        },
+                        {
+                            "name": "eero._alexa._tcp.local.",
+                            "addinfos":
+                            {
+                                "skillSetupId": "7cca14ff-6c27-4ce6-9969-8db36db99a4f",
+                                "type": "Alexa.Networking",
+                                "version": "1"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "mac_address": "C8:2B:96:10:A1:98",
+                "address_list":
+                [
+                    "192.168.1.4"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "1643796414088",
+                "prevstatetime": "1643794277854",
+                "statechangetimeout": "-600000",
+                "best_name": "shellyswitch25-10A198",
+                "best_type_id": "35",
+                "best_make_id": "12501",
+                "best_model_id": "222762",
+                "best_type": "SMART_HOME",
+                "best_make": "Shelly",
+                "best_model": "Shelly 2.5",
+                "recog_rank": "10",
+                "host_name": "shellyswitch25-10A198.station",
+                "mac_vendor": "Espressif",
+                "mac_vendor_changed": "1558396800000",
+                "last_dhcp_request_time": "1643277513489",
+                "logs":
+                [
+                    {
+                        "time": "1643796414088",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643796414088"
+                    },
+                    {
+                        "time": "1643795514067",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643794277854"
+                    },
+                    {
+                        "time": "1643729773348",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643729773348"
+                    },
+                    {
+                        "time": "1643729511684",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643728873317"
+                    },
+                    {
+                        "time": "1643388077257",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643388077257"
+                    },
+                    {
+                        "time": "1643386269446",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643385301537"
+                    },
+                    {
+                        "time": "1643308767325",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643308767325"
+                    },
+                    {
+                        "time": "1643307867303",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643300008073"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "SMART_HOME",
+                        "market_make": "SHELLY",
+                        "make": "SHELLY",
+                        "market_model": "SHELLY 2.5",
+                        "model": "SHELLY 2.5",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "SMART_HOME",
+                        "market_make": "SHELLY",
+                        "make": "SHELLY",
+                        "market_model": "SHELLY 2.5",
+                        "model": "SHELLY 2.5",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "SMART_HOME",
+                        "market_make": "Shelly",
+                        "make": "SHELLY",
+                        "market_model": "Shelly 2.5",
+                        "model": "Shelly 2.5",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "SMART_HOME",
+                        "market_make": "SHELLY",
+                        "make": "SHELLY",
+                        "market_model": "SHELLY 2.5",
+                        "model": "SHELLY 2.5",
+                        "recog_rank": "9"
+                    },
+                    {
+                        "recog_type": "H:USRTYPE-MACCLS",
+                        "type": "LIGHT",
+                        "recog_rank": "5"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "shellyswitch25-10A198._http._tcp.local.",
+                            "addinfos":
+                            {
+                                "arch": "esp8266",
+                                "fw_id": "20200601-122849\/v1.7.0@d7961837",
+                                "id": "shellyswitch25-10A198"
+                            }
+                        }
+                    ]
+                },
+                "dhcp":
+                {
+                    "name": "shellyswitch25-10A198",
+                    "params": "1,3,28,6,15,44,46,47,31,33,121,43"
+                }
+            },
+            {
+                "mac_address": "FC:65:DE:C0:84:97",
+                "address_list":
+                [
+                    "192.168.1.5"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "1643308767325",
+                "prevstatetime": "1643300008073",
+                "statechangetimeout": "-600000",
+                "best_name": "Giuseppe's 2°G Fire TV stick®™  ♳☠︎��",
+                "best_type_id": "12",
+                "best_make_id": "7042",
+                "best_model_id": "203440",
+                "best_os_id": "1",
+                "best_type": "STREAMING_DONGLE",
+                "best_make": "Amazon",
+                "best_model": "Fire TV Stick - 2nd Gen (2016)",
+                "best_os": "Android",
+                "best_family": "Fire TV Stick",
+                "best_family_id": "121045",
+                "recog_rank": "48",
+                "host_name": "amazon-2aecd5ea7.station",
+                "mac_vendor": "Amazon",
+                "mac_vendor_changed": "1499299200000",
+                "last_dhcp_request_time": "1643728550298",
+                "logs":
+                [
+                    {
+                        "time": "1643308767325",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643308767325"
+                    },
+                    {
+                        "time": "1643307867303",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643300008073"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:BONJOUR2",
+                        "type": "STREAMING_DONGLE",
+                        "market_make": "Amazon",
+                        "make": "Amazon",
+                        "market_model": "Fire TV Stick V2",
+                        "model": "Fire TV Stick V2",
+                        "recog_rank": "45"
+                    },
+                    {
+                        "recog_type": "H:BONJOUR",
+                        "type": "MEDIA_PLAYER",
+                        "market_make": "Amazon",
+                        "make": "AMAZON",
+                        "recog_rank": "38"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "market_make": "Amazon",
+                        "make": "AMAZON",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "STREAMING_DONGLE",
+                        "market_make": "Amazon",
+                        "make": "AMAZON",
+                        "os": "Android",
+                        "recog_rank": "7"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "Giuseppe's 2°G Fire TV stick®™  ♳☠︎��",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "amzn.dmgr:1357F5F306791627144B609F93358100:xnVDMM+4u1:780833._amzn-wplay._tcp.local.",
+                            "addinfos":
+                            {
+                                "a": "0",
+                                "ad": "A2LWARUGJLBYEW",
+                                "at": "iEBVENTGPj\/J",
+                                "dpv": "1",
+                                "f": "0",
+                                "mv": "2",
+                                "n": "Giuseppe's 2°G Fire TV stick®™  ♳☠︎��",
+                                "pv": "1",
+                                "s": "0",
+                                "sp": "35805",
+                                "t": "8",
+                                "tr": "tcp",
+                                "u": "1357F5F306791627144B609F93358100",
+                                "v": "2"
+                            }
+                        }
+                    ]
+                },
+                "dhcp":
+                {
+                    "name": "amazon-2aecd5ea7",
+                    "vendor": "dhcpcd-5.5.6",
+                    "params": "1,33,3,6,15,26,28,51,58,59"
+                }
+            },
+            {
+                "mac_address": "6C:5A:B0:B4:1F:E1",
+                "address_list":
+                [
+                    "192.168.1.6"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "1643386269446",
+                "prevstatetime": "1643374816451",
+                "statechangetimeout": "-600000",
+                "best_name": "C310_B41FE1",
+                "best_type_id": "34",
+                "best_make_id": "6106",
+                "best_type": "SURVEILLANCE_CAMERA",
+                "best_make": "TP-Link",
+                "recog_rank": "14",
+                "host_name": "C310_B41FE1.station",
+                "mac_vendor": "TP-Link",
+                "mac_vendor_changed": "1614816000000",
+                "logs":
+                [
+                    {
+                        "time": "1643386269446",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643386269446"
+                    },
+                    {
+                        "time": "1643385301537",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643374816451"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "SURVEILLANCE_CAMERA",
+                        "market_make": "TP-Link",
+                        "make": "TP-LINK",
+                        "recog_rank": "14"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "SURVEILLANCE_CAMERA",
+                        "market_make": "TP-Link",
+                        "make": "TP-LINK",
+                        "recog_rank": "10"
+                    }
+                ]
+            },
+            {
+                "mac_address": "5C:E0:C5:69:51:40",
+                "address_list":
+                [
+                    "192.168.1.7"
+                ],
+                "state": "UP",
+                "customChangeTime": "1643299036270",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "FING-PC",
+                "best_type_id": "26",
+                "best_make_id": "115",
+                "best_model_id": "80908",
+                "best_os_id": "29660",
+                "best_type": "LAPTOP",
+                "best_make": "Dell",
+                "best_model": "Latitude E7450",
+                "best_os": "Windows",
+                "best_osver": "10 Pro",
+                "best_osbuild": "19043",
+                "best_family": "Latitude",
+                "best_family_id": "167398",
+                "recog_rank": "100",
+                "best_sno": "1DHHT32",
+                "host_name": "Fing-PC.station",
+                "mac_vendor": "Intel",
+                "mac_vendor_changed": "1440633600000",
+                "last_dhcp_request_time": "1643732301594",
+                "leads":
+                [
+                    {
+                        "recog_type": "SURE",
+                        "type": "LAPTOP",
+                        "market_make": "Dell",
+                        "make": "DELL INC.",
+                        "market_model": "LATITUDE E7450",
+                        "model": "LATITUDE E7450",
+                        "serial": "1DHHT32",
+                        "os": "Windows",
+                        "osver": "10 Pro",
+                        "recog_rank": "100"
+                    },
+                    {
+                        "recog_type": "H:DS-ML",
+                        "type": "COMPUTER",
+                        "os": "Windows",
+                        "osver": "10 Pro",
+                        "recog_rank": "31"
+                    },
+                    {
+                        "recog_type": "H:R7R",
+                        "type": "COMPUTER",
+                        "os": "Windows",
+                        "osver": "10 Pro",
+                        "recog_rank": "25"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "COMPUTER",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "LAPTOP",
+                        "market_make": "DELL",
+                        "make": "DELL",
+                        "market_model": "LATITUDE",
+                        "model": "LATITUDE",
+                        "os": "Windows",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "COMPUTER",
+                        "os": "Windows",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "COMPUTER",
+                        "os": "Windows",
+                        "recog_rank": "3"
+                    }
+                ],
+                "netbios":
+                {
+                    "name": "FING-PC",
+                    "domain": "WORKGROUP",
+                    "is_file_server": "1",
+                    "mac": "5C:E0:C5:69:51:40"
+                },
+                "dhcp":
+                {
+                    "name": "Fing-PC",
+                    "vendor": "MSFT 5.0",
+                    "params": "1,3,6,15,31,33,43,44,46,47,119,121,249,252"
+                },
+                "smbInfo":
+                {
+                    "timestamp": "1643809763426",
+                    "nativeOS": "Windows 10 Pro 19043",
+                    "nativeLM": "Windows 10 Pro 6.3"
+                }
+            },
+            {
+                "mac_address": "DE:36:94:81:63:9B",
+                "address_list":
+                [
+                    "192.168.1.8"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "1643806397426",
+                "prevstatetime": "1643794277854",
+                "statechangetimeout": "-1200000",
+                "best_name": "computer",
+                "best_type_id": "2",
+                "best_make_id": "4227",
+                "best_os_id": "5",
+                "best_type": "MOBILE",
+                "best_make": "Apple",
+                "best_os": "iOS",
+                "recog_rank": "4",
+                "host_name": "computer.station",
+                "last_dhcp_request_time": "1643720795536",
+                "logs":
+                [
+                    {
+                        "time": "1643806397426",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643806397426"
+                    },
+                    {
+                        "time": "1643795514067",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643794277854"
+                    },
+                    {
+                        "time": "1643719675011",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643719675011"
+                    },
+                    {
+                        "time": "1643717181757",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643714444127"
+                    },
+                    {
+                        "time": "1643713192726",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643713192726"
+                    },
+                    {
+                        "time": "1643711912135",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643710373545"
+                    },
+                    {
+                        "time": "1643649686046",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643649686046"
+                    },
+                    {
+                        "time": "1643645393289",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643643593325"
+                    },
+                    {
+                        "time": "1643476092234",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643476092234"
+                    },
+                    {
+                        "time": "1643473310788",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643471432033"
+                    },
+                    {
+                        "time": "1643457746662",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643457671121"
+                    },
+                    {
+                        "time": "1643453080813",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643451322171"
+                    },
+                    {
+                        "time": "1643387173257",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643387173257"
+                    },
+                    {
+                        "time": "1643385301537",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643373916439"
+                    },
+                    {
+                        "time": "1643312714963",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643312714963"
+                    },
+                    {
+                        "time": "1643307867303",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643300008073"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "MOBILE",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "os": "iOS",
+                        "recog_rank": "4"
+                    }
+                ],
+                "dhcp":
+                {
+                    "params": "1,121,3,6,15,108,114,119,252"
+                }
+            },
+            {
+                "mac_address": "C4:DD:57:32:2E:56",
+                "address_list":
+                [
+                    "192.168.1.9"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "ESP_322E56",
+                "best_type_id": "35",
+                "best_type": "SMART_HOME",
+                "recog_rank": "11",
+                "host_name": "ESP_322E56.station",
+                "mac_vendor": "Espressif",
+                "mac_vendor_changed": "1595548800000",
+                "last_dhcp_request_time": "1643800096578",
+                "leads":
+                [
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "SMART_HOME",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "SMART_HOME",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "SMART_HOME",
+                        "recog_rank": "2"
+                    }
+                ],
+                "dhcp":
+                {
+                    "name": "ESP_322E56",
+                    "params": "1,3,28,6,15,44,46,47,31,33,121,43"
+                }
+            },
+            {
+                "mac_address": "F8:BB:BF:8A:C4:4B",
+                "address_list":
+                [
+                    "192.168.1.10"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "eero-f8:bb:bf:8a:c4:40",
+                "best_type_id": "70",
+                "best_make_id": "8033",
+                "best_model_id": "73808",
+                "best_type": "WIFI",
+                "best_make": "eero",
+                "best_model": "eero",
+                "recog_rank": "20",
+                "host_name": "eero.station",
+                "mac_vendor": "eero",
+                "mac_vendor_changed": "1478563200000",
+                "leads":
+                [
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "WIFI",
+                        "market_make": "eero",
+                        "make": "EERO",
+                        "market_model": "eero",
+                        "model": "eero",
+                        "recog_rank": "20"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "WIFI",
+                        "market_make": "EERO",
+                        "make": "EERO",
+                        "market_model": "EERO",
+                        "model": "EERO",
+                        "recog_rank": "18"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "WIFI",
+                        "market_make": "EERO",
+                        "make": "EERO",
+                        "market_model": "EERO",
+                        "model": "EERO",
+                        "recog_rank": "10"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "eero-f8:bb:bf:8a:c4:40",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "eero #2._alexa._tcp.local.",
+                            "addinfos":
+                            {
+                                "skillSetupId": "7cca14ff-6c27-4ce6-9969-8db36db99a4f",
+                                "type": "Alexa.Networking",
+                                "version": "1"
+                            }
+                        },
+                        {
+                            "name": "eero-thread-default #2._meshcop._udp.local.",
+                            "addinfos":
+                            {
+                                "nn": "eero-thread",
+                                "tv": "0.0.0",
+                                "vd": "0.1.0",
+                                "vo": "\u0014\"�"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "mac_address": "44:65:0D:CE:B5:29",
+                "address_list":
+                [
+                    "192.168.1.12"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "dp-618306BB",
+                "best_type_id": "38",
+                "best_make_id": "7042",
+                "best_model_id": "35681",
+                "best_os_id": "1",
+                "best_type": "VOICE_CONTROL",
+                "best_make": "Amazon",
+                "best_model": "Echo",
+                "best_os": "Android",
+                "best_family": "Smart Speaker",
+                "best_family_id": "237888",
+                "recog_rank": "38",
+                "host_name": "computer-6.station",
+                "mac_vendor": "Amazon",
+                "mac_vendor_changed": "1453420800000",
+                "leads":
+                [
+                    {
+                        "recog_type": "H:BONJOUR",
+                        "type": "VOICE_CONTROL",
+                        "market_make": "Amazon",
+                        "make": "AMAZON",
+                        "market_model": "Echo",
+                        "model": "Echo",
+                        "recog_rank": "38"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "VOICE_CONTROL",
+                        "market_make": "AMAZON",
+                        "make": "AMAZON",
+                        "market_model": "ECHO",
+                        "model": "ECHO",
+                        "os": "Android",
+                        "recog_rank": "13"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "market_make": "Amazon",
+                        "make": "AMAZON",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "VOICE_CONTROL",
+                        "market_make": "AMAZON",
+                        "make": "AMAZON",
+                        "market_model": "ECHO",
+                        "model": "ECHO",
+                        "recog_rank": "10"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "dp-618306BB",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "dp-618306BB [00:00:00:00:00:00]._workstation._tcp.local.",
+                            "addinfos": ""
+                        },
+                        {
+                            "name": "dp-618306BB._sftp-ssh._tcp.local.",
+                            "addinfos": ""
+                        },
+                        {
+                            "name": "dp-618306BB._ssh._tcp.local.",
+                            "addinfos": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "mac_address": "30:57:8E:0F:12:12",
+                "address_list":
+                [
+                    "192.168.1.14"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "eero-30:57:8e:0f:12:00",
+                "best_type_id": "70",
+                "best_make_id": "8033",
+                "best_model_id": "73808",
+                "best_type": "WIFI",
+                "best_make": "eero",
+                "best_model": "eero",
+                "recog_rank": "20",
+                "host_name": "eero.station",
+                "mac_vendor": "eero",
+                "mac_vendor_changed": "1594684800000",
+                "last_dhcp_request_time": "1643277609512",
+                "leads":
+                [
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "WIFI",
+                        "market_make": "EERO",
+                        "make": "EERO",
+                        "market_model": "EERO",
+                        "model": "EERO",
+                        "recog_rank": "20"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "WIFI",
+                        "market_make": "EERO",
+                        "make": "EERO",
+                        "market_model": "EERO",
+                        "model": "EERO",
+                        "recog_rank": "20"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "WIFI",
+                        "market_make": "eero",
+                        "make": "EERO",
+                        "market_model": "eero",
+                        "model": "eero",
+                        "recog_rank": "20"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "WIFI",
+                        "market_make": "EERO",
+                        "make": "EERO",
+                        "market_model": "EERO",
+                        "model": "EERO",
+                        "recog_rank": "10"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "eero-30:57:8e:0f:12:00",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "eero #3._alexa._tcp.local.",
+                            "addinfos":
+                            {
+                                "skillSetupId": "7cca14ff-6c27-4ce6-9969-8db36db99a4f",
+                                "type": "Alexa.Networking",
+                                "version": "1"
+                            }
+                        },
+                        {
+                            "name": "eero-thread-default #3._meshcop._udp.local.",
+                            "addinfos":
+                            {
+                                "nn": "eero-thread",
+                                "tv": "0.0.0",
+                                "vd": "0.1.0",
+                                "vo": "\u0014\"�"
+                            }
+                        }
+                    ]
+                },
+                "dhcp":
+                {
+                    "name": "eero",
+                    "params": "1,28,2,3,15,6,119,12,44,47,26,121,43"
+                }
+            },
+            {
+                "mac_address": "98:06:3C:DE:56:AA",
+                "address_list":
+                [
+                    "192.168.1.15"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "1643795514067",
+                "prevstatetime": "1643734603823",
+                "statechangetimeout": "-600000",
+                "best_name": "[TV] Samsung 7 Series (55)",
+                "best_type_id": "10",
+                "best_make_id": "4819",
+                "best_model_id": "366554",
+                "best_os_id": "9",
+                "best_type": "TELEVISION",
+                "best_make": "Samsung",
+                "best_model": "UE55TU7170UXZT",
+                "best_os": "Tizen",
+                "best_family": "TV",
+                "best_family_id": "233976",
+                "recog_rank": "46",
+                "best_sno": "0D833SGN902011Z",
+                "host_name": "Samsung.station",
+                "mac_vendor": "Samsung",
+                "mac_vendor_changed": "1586563200000",
+                "last_dhcp_request_time": "1643731865360",
+                "logs":
+                [
+                    {
+                        "time": "1643795514067",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643795514067"
+                    },
+                    {
+                        "time": "1643735505943",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643734603823"
+                    },
+                    {
+                        "time": "1643732226017",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643731312626"
+                    },
+                    {
+                        "time": "1643731573344",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643730439610"
+                    },
+                    {
+                        "time": "1643660644122",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643660644122"
+                    },
+                    {
+                        "time": "1643651578577",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643650650874"
+                    },
+                    {
+                        "time": "1643494031239",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643494031239"
+                    },
+                    {
+                        "time": "1643465053232",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643464130836"
+                    },
+                    {
+                        "time": "1643438433460",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643437532763"
+                    },
+                    {
+                        "time": "1643412932235",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643411148368"
+                    },
+                    {
+                        "time": "1643411148368",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643411148368"
+                    },
+                    {
+                        "time": "1643404738167",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643403799834"
+                    },
+                    {
+                        "time": "1643307867303",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643307867303"
+                    },
+                    {
+                        "time": "1643300008073",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643299064612"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:UPnP",
+                        "type": "TELEVISION",
+                        "market_make": "Samsung",
+                        "make": "SAMSUNG",
+                        "market_model": "UE55TU7170UXZT",
+                        "model": "UE55TU7170UXZT",
+                        "serial": "0D833SGN902011Z",
+                        "recog_rank": "40"
+                    },
+                    {
+                        "recog_type": "H:BONJOUR2",
+                        "market_make": "Samsung",
+                        "make": "Samsung",
+                        "market_model": "UTU7000",
+                        "model": "UTU7000",
+                        "serial": "0D833SGN902011Z",
+                        "recog_rank": "30"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "TELEVISION",
+                        "market_make": "SAMSUNG",
+                        "make": "SAMSUNG",
+                        "os": "Tizen",
+                        "recog_rank": "30"
+                    },
+                    {
+                        "recog_type": "H:BONJOUR",
+                        "type": "MEDIA_PLAYER",
+                        "recog_rank": "19"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "TELEVISION",
+                        "market_make": "Samsung",
+                        "make": "SAMSUNG",
+                        "os": "Tizen",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "TELEVISION",
+                        "market_make": "Samsung",
+                        "make": "SAMSUNG",
+                        "os": "Tizen",
+                        "recog_rank": "8"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "Samsung",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "Samsung 7 Series (55)._airplay._tcp.local.",
+                            "addinfos":
+                            {
+                                "acl": "0",
+                                "deviceid": "4C:C9:5E:A6:81:10",
+                                "features": "0x7F8AD0,0x38BCB46",
+                                "flags": "0x204",
+                                "fv": "p20.T-KTSU2DEUC-2101.2",
+                                "gcgl": "0",
+                                "gid": "00000000-0000-0000-0000-66BC16C42AA6",
+                                "manufacturer": "Samsung",
+                                "model": "UTU7000",
+                                "pi": "66:BC:16:C4:2A:A6",
+                                "pk": "ae336b6de321ef93aa4ddc0db7c3355562e4c75baeac52d6aad8868b52b4fc7a",
+                                "protovers": "1.1",
+                                "psi": "00000000-0000-0000-0000-66BC16C42AA6",
+                                "rsf": "0x3",
+                                "serialNumber": "0D833SGN902011Z",
+                                "srcvers": "377.25.06"
+                            }
+                        }
+                    ]
+                },
+                "upnp":
+                {
+                    "name": "[TV] Samsung 7 Series (55)",
+                    "make": "Samsung",
+                    "model": "UE55TU7170UXZT",
+                    "serialNumber": "0D833SGN902011Z",
+                    "type_list":
+                    [
+                        "urn:dial-multiscreen-org:device:dialreceiver:1",
+                        "urn:schemas-upnp-org:device:MediaRenderer:1"
+                    ],
+                    "service_list":
+                    [
+                        "urn:dial-multiscreen-org:service:dial:1",
+                        "urn:schemas-upnp-org:service:AVTransport:1",
+                        "urn:schemas-upnp-org:service:ConnectionManager:1",
+                        "urn:schemas-upnp-org:service:RenderingControl:1"
+                    ]
+                },
+                "dhcp":
+                {
+                    "name": "Samsung",
+                    "params": "1,3,26,252,43,42,6,12"
+                }
+            },
+            {
+                "mac_address": "48:98:CA:E6:50:96",
+                "address_list":
+                [
+                    "192.168.1.16"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "IPC365",
+                "host_name": "IPC365.station",
+                "mac_vendor": "Sichuan AI-Link Technology Co., Ltd.",
+                "mac_vendor_changed": "1524614400000",
+                "leads": ""
+            },
+            {
+                "mac_address": "08:78:08:16:F5:24",
+                "address_list":
+                [
+                    "192.168.1.17"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643447624939",
+                "lastseentime": "0",
+                "statechangetime": "1643809764850",
+                "prevstatetime": "1643744613357",
+                "statechangetimeout": "-600000",
+                "best_name": "Galaxy-Tab-S2",
+                "best_type_id": "3",
+                "best_make_id": "4819",
+                "best_model_id": "127610",
+                "best_os_id": "1079",
+                "best_type": "TABLET",
+                "best_make": "Samsung",
+                "best_model": "Galaxy Tab S2",
+                "best_os": "Android",
+                "best_osver": "7.0 REL",
+                "best_family": "Tablet",
+                "best_family_id": "237891",
+                "recog_rank": "33",
+                "host_name": "Galaxy-Tab-S2.station",
+                "mac_vendor": "Samsung",
+                "mac_vendor_changed": "1498867200000",
+                "last_dhcp_request_time": "1643447014244",
+                "logs":
+                [
+                    {
+                        "time": "1643809764850",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643809764850"
+                    },
+                    {
+                        "time": "1643750114186",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643744613357"
+                    },
+                    {
+                        "time": "1643732473332",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643732473332"
+                    },
+                    {
+                        "time": "1643732226017",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643731573344"
+                    },
+                    {
+                        "time": "1643730673317",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643730673317"
+                    },
+                    {
+                        "time": "1643730439610",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643729773348"
+                    },
+                    {
+                        "time": "1643729773348",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643729773348"
+                    },
+                    {
+                        "time": "1643729511684",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643728741641"
+                    },
+                    {
+                        "time": "1643447624939",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643447624939"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "TABLET",
+                        "market_make": "SAMSUNG",
+                        "make": "SAMSUNG",
+                        "os": "Android",
+                        "recog_rank": "32"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "TABLET",
+                        "market_make": "SAMSUNG",
+                        "make": "SAMSUNG",
+                        "os": "Android",
+                        "recog_rank": "23"
+                    },
+                    {
+                        "recog_type": "H:HOSTNAME",
+                        "type": "TABLET",
+                        "market_make": "Samsung",
+                        "make": "SAMSUNG",
+                        "market_model": "Galaxy TabS2",
+                        "model": "Galaxy TabS2",
+                        "recog_rank": "20"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "TABLET",
+                        "market_make": "SAMSUNG",
+                        "make": "SAMSUNG",
+                        "market_model": "GALAXY TAB",
+                        "model": "GALAXY TAB",
+                        "os": "Android",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "TABLET",
+                        "market_make": "Samsung",
+                        "make": "SAMSUNG",
+                        "market_model": "Galaxy Tab",
+                        "model": "Galaxy Tab",
+                        "os": "Android",
+                        "osver": "7.0",
+                        "recog_rank": "10"
+                    }
+                ],
+                "dhcp":
+                {
+                    "name": "Galaxy-Tab-S2",
+                    "vendor": "android-dhcp-7.0",
+                    "params": "1,3,6,15,26,28,51,58,59,43"
+                }
+            },
+            {
+                "mac_address": "7C:A7:B0:A5:7A:8B",
+                "address_list":
+                [
+                    "192.168.1.19"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "IPC365",
+                "host_name": "IPC365.station",
+                "mac_vendor": "Shenzhen Bilian Electronic Co.，ltd",
+                "mac_vendor_changed": "1566345600000",
+                "leads": ""
+            },
+            {
+                "mac_address": "88:E9:FE:53:F9:03",
+                "address_list":
+                [
+                    "192.168.1.21"
+                ],
+                "state": "UP",
+                "selfNode": "true",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "1643619899888",
+                "prevstatetime": "1643516852072",
+                "statechangetimeout": "-600000",
+                "best_name": "FVFWJ1C9HV2H",
+                "best_type_id": "26",
+                "best_make_id": "4227",
+                "best_model_id": "133893",
+                "best_os_id": "51454",
+                "best_type": "LAPTOP",
+                "best_make": "Apple",
+                "best_model": "MacBook Pro 13\" (Mid 2017)",
+                "best_os": "macOS",
+                "best_osver": "21.3.0",
+                "best_family": "MacBook Pro 13\"",
+                "best_family_id": "229036",
+                "recog_rank": "100",
+                "best_sno": "FVFWJ1C9HV2H",
+                "host_name": "Giuxs♧",
+                "mac_vendor": "Apple",
+                "mac_vendor_changed": "1513987200000",
+                "last_dhcp_request_time": "1643788546362",
+                "logs":
+                [
+                    {
+                        "time": "1643619899888",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643619899888"
+                    },
+                    {
+                        "time": "1643517709695",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643516852072"
+                    },
+                    {
+                        "time": "1643516852072",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643516852072"
+                    },
+                    {
+                        "time": "1643510432946",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643509496334"
+                    },
+                    {
+                        "time": "1643509496334",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643509496334"
+                    },
+                    {
+                        "time": "1643504964052",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643504030877"
+                    },
+                    {
+                        "time": "1643504964052",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643504030877"
+                    },
+                    {
+                        "time": "1643499523614",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643498594478"
+                    },
+                    {
+                        "time": "1643498594478",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643498594478"
+                    },
+                    {
+                        "time": "1643497649078",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643496804292"
+                    },
+                    {
+                        "time": "1643495895421",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643495895421"
+                    },
+                    {
+                        "time": "1643494031239",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643493410775"
+                    },
+                    {
+                        "time": "1643494031239",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643493410775"
+                    },
+                    {
+                        "time": "1643393770467",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643392872686"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "SURE",
+                        "type": "LAPTOP",
+                        "market_make": "Apple",
+                        "make": "Apple",
+                        "market_model": "MacBook Pro (13\") (Mid 2017)",
+                        "model": "MacBookPro14,1",
+                        "serial": "FVFWJ1C9HV2H",
+                        "os": "macOS",
+                        "osver": "21.3.0",
+                        "recog_rank": "100"
+                    },
+                    {
+                        "recog_type": "H:DS-ML",
+                        "type": "LAPTOP",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "market_model": "MAC",
+                        "model": "MAC",
+                        "os": "macOS",
+                        "recog_rank": "35"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "LAPTOP",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "market_model": "MACBOOK",
+                        "model": "MACBOOK",
+                        "os": "macOS",
+                        "recog_rank": "12"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "COMPUTER",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "os": "macOS",
+                        "recog_rank": "6"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "FVFWJ1C9HV2H",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "0._teamviewer._tcp.local.",
+                            "addinfos":
+                            {
+                                "DyngateID": "1052134367",
+                                "Token": "J0h4uU5YVJNUfuj5",
+                                "UUID": "09b4d8ae-5ce1-4b24-8da4-77b7575de6bf"
+                            }
+                        }
+                    ]
+                },
+                "dhcp":
+                {
+                    "name": "FVFWJ1C9HV2H",
+                    "params": "1,121,3,6,15,108,114,119,252,95,44,46"
+                },
+                "smbInfo":
+                {
+                    "timestamp": "1643809765886",
+                    "nativeOS": "Mac OS X 12",
+                    "nativeLM": "SMBFS 4.0"
+                }
+            },
+            {
+                "mac_address": "C0:E7:BF:26:68:1C",
+                "address_list":
+                [
+                    "192.168.1.22"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "1643797495025",
+                "prevstatetime": "1643796414088",
+                "statechangetimeout": "-600000",
+                "best_name": "computer-3",
+                "host_name": "computer-3.station",
+                "mac_vendor": "Sichuan AI-Link Technology",
+                "mac_vendor_changed": "1592006400000",
+                "last_dhcp_request_time": "1643688027433",
+                "logs":
+                [
+                    {
+                        "time": "1643797495025",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643797495025"
+                    },
+                    {
+                        "time": "1643797307228",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643796414088"
+                    },
+                    {
+                        "time": "1643622599930",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643622599930"
+                    },
+                    {
+                        "time": "1643621699908",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643620886071"
+                    },
+                    {
+                        "time": "1643620886071",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643620886071"
+                    },
+                    {
+                        "time": "1643620799912",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643619945594"
+                    },
+                    {
+                        "time": "1643619945594",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643619945594"
+                    },
+                    {
+                        "time": "1643619899888",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643518409145"
+                    },
+                    {
+                        "time": "1643388077257",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643388077257"
+                    },
+                    {
+                        "time": "1643386269446",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643385301537"
+                    },
+                    {
+                        "time": "1643363752502",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643363752502"
+                    },
+                    {
+                        "time": "1643362743214",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643360598524"
+                    },
+                    {
+                        "time": "1643312714963",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643312714963"
+                    },
+                    {
+                        "time": "1643307867303",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643300008073"
+                    }
+                ],
+                "leads": "",
+                "dhcp":
+                {
+                    "params": "1,3,28,6"
+                }
+            },
+            {
+                "mac_address": "7C:2E:BD:DB:75:11",
+                "address_list":
+                [
+                    "192.168.1.23"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "Soggiorno",
+                "best_type_id": "38",
+                "best_make_id": "7385",
+                "best_model_id": "140190",
+                "best_os_id": "23",
+                "best_type": "VOICE_CONTROL",
+                "best_make": "Google",
+                "best_model": "Home Mini",
+                "best_os": "Chrome OS",
+                "best_family": "Voice Control",
+                "best_family_id": "92863",
+                "recog_rank": "45",
+                "host_name": "Google-Home-Mini.station",
+                "mac_vendor": "Google",
+                "mac_vendor_changed": "1517011200000",
+                "last_dhcp_request_time": "1643682775880",
+                "leads":
+                [
+                    {
+                        "recog_type": "H:BONJOUR2",
+                        "type": "VOICE_CONTROL",
+                        "market_make": "Google",
+                        "make": "Google",
+                        "market_model": "Google Home Mini",
+                        "model": "Google Home Mini",
+                        "recog_rank": "45"
+                    },
+                    {
+                        "recog_type": "H:BONJOUR",
+                        "type": "VOICE_CONTROL",
+                        "market_make": "Google",
+                        "make": "GOOGLE",
+                        "market_model": "Google Home Mini",
+                        "model": "Google Home Mini",
+                        "recog_rank": "38"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "STREAMING_DONGLE",
+                        "market_make": "Google",
+                        "make": "GOOGLE",
+                        "os": "ChromeOS",
+                        "recog_rank": "30"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "VOICE_CONTROL",
+                        "market_make": "Google",
+                        "make": "GOOGLE",
+                        "market_model": "Google Home",
+                        "model": "Google Home",
+                        "recog_rank": "10"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "Soggiorno",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "Google-Home-Mini-2a65626192785cf928df767b9521a9d3._googlecast._tcp.local.",
+                            "addinfos":
+                            {
+                                "bs": "FA8FCA9D144E",
+                                "ca": "199172",
+                                "cd": "FB3600E4198590BE2E0F7AEDA6BE593E",
+                                "fn": "Soggiorno",
+                                "ic": "\/setup\/icon.png",
+                                "id": "2a65626192785cf928df767b9521a9d3",
+                                "md": "Google Home Mini",
+                                "nf": "1",
+                                "rm": "43EFE1D7B9FE31B6",
+                                "st": "0",
+                                "ve": "05"
+                            }
+                        }
+                    ]
+                },
+                "dhcp":
+                {
+                    "name": "Google-Home-Mini",
+                    "vendor": "dhcpcd-6.8.2:Linux-3.8.13+:armv7l:Marvell",
+                    "params": "1,33,3,6,15,28,51,58,59"
+                }
+            },
+            {
+                "mac_address": "3C:22:FB:50:EF:F0",
+                "address_list":
+                [
+                    "192.168.1.26"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643307867303",
+                "lastseentime": "0",
+                "statechangetime": "1643786235278",
+                "prevstatetime": "1643776364827",
+                "statechangetimeout": "-600000",
+                "best_name": "iMac-di-alessandro",
+                "best_type_id": "27",
+                "best_make_id": "4227",
+                "best_model_id": "229234",
+                "best_os_id": "2658",
+                "best_type": "DESKTOP",
+                "best_make": "Apple",
+                "best_model": "iMac Retina (21.5\") (4K, 2019)",
+                "best_os": "macOS",
+                "best_osver": "20",
+                "best_family": "iMac Retina",
+                "best_family_id": "133742",
+                "recog_rank": "46",
+                "ownerName": "Alessandro",
+                "host_name": "iMacdiaessandro.station",
+                "mac_vendor": "Apple",
+                "mac_vendor_changed": "1568073600000",
+                "last_dhcp_request_time": "1643744678195",
+                "logs":
+                [
+                    {
+                        "time": "1643786235278",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643786235278"
+                    },
+                    {
+                        "time": "1643783543774",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643776364827"
+                    },
+                    {
+                        "time": "1643754294179",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643754294179"
+                    },
+                    {
+                        "time": "1643744515211",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643742180927"
+                    },
+                    {
+                        "time": "1643737524036",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643737524036"
+                    },
+                    {
+                        "time": "1643736488608",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643735505943"
+                    },
+                    {
+                        "time": "1643735505943",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643735505943"
+                    },
+                    {
+                        "time": "1643734603823",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643733703847"
+                    },
+                    {
+                        "time": "1643662510527",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643662510527"
+                    },
+                    {
+                        "time": "1643660644122",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643659746388"
+                    },
+                    {
+                        "time": "1643658842362",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643658842362"
+                    },
+                    {
+                        "time": "1643657015504",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643656116797"
+                    },
+                    {
+                        "time": "1643646361233",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643646361233"
+                    },
+                    {
+                        "time": "1643644497163",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643643593325"
+                    },
+                    {
+                        "time": "1643637232922",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643636304523"
+                    },
+                    {
+                        "time": "1643634456353",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643632674735"
+                    },
+                    {
+                        "time": "1643495000616",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643495000616"
+                    },
+                    {
+                        "time": "1643492548177",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643491650345"
+                    },
+                    {
+                        "time": "1643487938767",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643487938767"
+                    },
+                    {
+                        "time": "1643486085007",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643485187156"
+                    },
+                    {
+                        "time": "1643484297346",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643484297346"
+                    },
+                    {
+                        "time": "1643483384938",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643482503850"
+                    },
+                    {
+                        "time": "1643468697127",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643467759557"
+                    },
+                    {
+                        "time": "1643465979381",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643465053232"
+                    },
+                    {
+                        "time": "1643453080813",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643453080813"
+                    },
+                    {
+                        "time": "1643451322171",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643450379820"
+                    },
+                    {
+                        "time": "1643450308331",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643450308331"
+                    },
+                    {
+                        "time": "1643448537585",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643447624939"
+                    },
+                    {
+                        "time": "1643406522136",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643406505153"
+                    },
+                    {
+                        "time": "1643404738167",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643403799834"
+                    },
+                    {
+                        "time": "1643398262351",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643398262351"
+                    },
+                    {
+                        "time": "1643396470431",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643395546496"
+                    },
+                    {
+                        "time": "1643373916439",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643373916439"
+                    },
+                    {
+                        "time": "1643372590628",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643371690586"
+                    },
+                    {
+                        "time": "1643307867303",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643307867303"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:BONJOUR2",
+                        "type": "DESKTOP",
+                        "market_make": "Apple",
+                        "make": "Apple",
+                        "market_model": "iMac Retina (21.5\") (4K, 2019)",
+                        "model": "iMac19,2",
+                        "os": "macOS",
+                        "osver": "20",
+                        "recog_rank": "45"
+                    },
+                    {
+                        "recog_type": "H:BONJOUR",
+                        "type": "DESKTOP",
+                        "market_make": "Apple",
+                        "make": "APPLE",
+                        "market_model": "iMac Retina (21.5\") (4K, 2019)",
+                        "model": "iMac19,2",
+                        "os": "OS X",
+                        "osver": "20",
+                        "recog_rank": "38"
+                    },
+                    {
+                        "recog_type": "H:DS-ML",
+                        "type": "COMPUTER",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "os": "macOS",
+                        "recog_rank": "34"
+                    },
+                    {
+                        "recog_type": "H:R7R",
+                        "type": "COMPUTER",
+                        "market_make": "Apple",
+                        "make": "APPLE",
+                        "os": "macOS",
+                        "osver": "20.1.0",
+                        "recog_rank": "25"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "COMPUTER",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "os": "macOS",
+                        "recog_rank": "24"
+                    },
+                    {
+                        "recog_type": "H:HOSTNAME",
+                        "type": "DESKTOP",
+                        "market_make": "Apple",
+                        "make": "APPLE",
+                        "market_model": "iMac",
+                        "model": "iMac",
+                        "os": "macOS",
+                        "recog_rank": "20"
+                    },
+                    {
+                        "recog_type": "H:NETBIOS",
+                        "type": "DESKTOP",
+                        "market_make": "Apple",
+                        "make": "APPLE",
+                        "market_model": "iMac",
+                        "model": "iMac",
+                        "os": "macOS",
+                        "recog_rank": "20"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "DESKTOP",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "market_model": "IMAC",
+                        "model": "IMAC",
+                        "os": "macOS",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "DESKTOP",
+                        "market_make": "Apple",
+                        "make": "APPLE",
+                        "market_model": "iMac",
+                        "model": "iMac",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "COMPUTER",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "os": "macOS",
+                        "recog_rank": "6"
+                    }
+                ],
+                "netbios":
+                {
+                    "name": "IMACDIAESSANDRO",
+                    "mac": "3C:22:FB:50:EF:F0"
+                },
+                "bonjour":
+                {
+                    "name": "iMac-di-alessandro",
+                    "model": "iMac19,2",
+                    "os": "OSX:20",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "iMac di alessandro._companion-link._tcp.local.",
+                            "addinfos":
+                            {
+                                "rpAD": "fa843a90e868",
+                                "rpBA": "0B:85:74:B1:02:62",
+                                "rpFl": "0x20040",
+                                "rpHA": "57d6732c480f",
+                                "rpHI": "3fc6b1d2490d",
+                                "rpHN": "99e7de78f674",
+                                "rpMac": "0",
+                                "rpVr": "260.3"
+                            }
+                        },
+                        {
+                            "name": "iMac di alessandro._device-info._tcp.local.",
+                            "addinfos":
+                            {
+                                "model": "iMac19,2",
+                                "osxvers": "20"
+                            }
+                        },
+                        {
+                            "name": "iMac di alessandro._sftp-ssh._tcp.local.",
+                            "addinfos": ""
+                        },
+                        {
+                            "name": "iMac di alessandro._ssh._tcp.local.",
+                            "addinfos": ""
+                        }
+                    ]
+                },
+                "dhcp":
+                {
+                    "name": "iMacdiaessandro",
+                    "params": "1,121,3,6,15,114,119,252,95,44,46"
+                },
+                "smbInfo":
+                {
+                    "timestamp": "1643731318095",
+                    "nativeOS": "Mac OS X 11",
+                    "nativeLM": "SMBFS 3.6.2"
+                }
+            },
+            {
+                "mac_address": "F0:23:B9:ED:00:35",
+                "address_list":
+                [
+                    "192.168.1.68"
+                ],
+                "state": "UP",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "Fingbox",
+                "best_type_id": "67",
+                "best_make_id": "82",
+                "best_model_id": "227256",
+                "best_os_id": "871",
+                "best_type": "FINGBOX",
+                "best_make": "Fing",
+                "best_model": "Fingbox v2",
+                "best_os": "Linux Ubuntu",
+                "best_family": "Fingbox",
+                "best_family_id": "125310",
+                "recog_rank": "92",
+                "best_sno": "0D833SGN902011Z",
+                "host_name": "computer-2.station",
+                "mac_vendor": "Domotz",
+                "mac_vendor_changed": "1488067200000",
+                "last_dhcp_request_time": "1643807082711",
+                "leads":
+                [
+                    {
+                        "recog_type": "H:UPnP",
+                        "type": "FINGBOX",
+                        "market_make": "Fing",
+                        "make": "FING",
+                        "market_model": "Fingbox v2",
+                        "model": "Fingbox v2",
+                        "os": "Linux Ubuntu",
+                        "recog_rank": "90"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "FINGBOX",
+                        "market_make": "FING",
+                        "make": "FING",
+                        "market_model": "FINGBOX",
+                        "model": "FINGBOX",
+                        "os": "Linux Ubuntu",
+                        "recog_rank": "45"
+                    },
+                    {
+                        "recog_type": "H:BONJOUR2",
+                        "market_make": "Samsung",
+                        "make": "Samsung",
+                        "market_model": "UTU7000",
+                        "model": "UTU7000",
+                        "serial": "0D833SGN902011Z",
+                        "recog_rank": "30"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "FINGBOX",
+                        "market_make": "FING",
+                        "make": "FING",
+                        "market_model": "FINGBOX",
+                        "model": "FINGBOX",
+                        "os": "Linux Ubuntu",
+                        "recog_rank": "30"
+                    },
+                    {
+                        "recog_type": "H:BONJOUR",
+                        "type": "MEDIA_PLAYER",
+                        "recog_rank": "19"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "FINGBOX",
+                        "market_make": "FING",
+                        "make": "FING",
+                        "market_model": "FINGBOX",
+                        "model": "FINGBOX",
+                        "os": "Linux Ubuntu",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:USRTYPE-MACCLS",
+                        "type": "FINGBOX",
+                        "recog_rank": "1"
+                    },
+                    {
+                        "recog_type": "H:USRINMAP-MACCLS",
+                        "type": "FINGBOX",
+                        "market_make": "FING",
+                        "make": "FING",
+                        "market_model": "FINGBOX V2",
+                        "model": "FINGBOX V2",
+                        "recog_rank": "1"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "Samsung",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "Samsung 7 Series (55)._airplay._tcp.local.",
+                            "addinfos":
+                            {
+                                "acl": "0",
+                                "deviceid": "4C:C9:5E:A6:81:10",
+                                "features": "0x7F8AD0,0x38BCB46",
+                                "flags": "0x204",
+                                "fv": "p20.T-KTSU2DEUC-2101.2",
+                                "gcgl": "0",
+                                "gid": "00000000-0000-0000-0000-66BC16C42AA6",
+                                "manufacturer": "Samsung",
+                                "model": "UTU7000",
+                                "pi": "66:BC:16:C4:2A:A6",
+                                "pk": "ae336b6de321ef93aa4ddc0db7c3355562e4c75baeac52d6aad8868b52b4fc7a",
+                                "protovers": "1.1",
+                                "psi": "00000000-0000-0000-0000-66BC16C42AA6",
+                                "rsf": "0x3",
+                                "serialNumber": "0D833SGN902011Z",
+                                "srcvers": "377.25.06"
+                            }
+                        }
+                    ]
+                },
+                "upnp":
+                {
+                    "name": "Fingbox",
+                    "make": "Domotz",
+                    "model": "Fingbox",
+                    "serialNumber": "123",
+                    "type_list":
+                    [
+                        "urn:domotz:fingbox:1.15.4"
+                    ],
+                    "service_list":
+                    [
+                        "urn:domotz:device:fingbox:active:1",
+                        "urn:domotz:device:fingbox:hwp:fingbox-v2018",
+                        "urn:domotz:device:fingbox:koss:c16-2.49.2r10957l_g16.04-0.1.0r7l_k4.9.5r7l",
+                        "urn:domotz:device:fingbox:mac:F023B9ED0035",
+                        "urn:domotz:device:fingbox:netsign:BC15AC8E1B81",
+                        "urn:domotz:device:fingbox:recogport:80",
+                        "urn:domotz:device:fingbox:ver:1.15.4"
+                    ]
+                },
+                "dhcp":
+                {
+                    "params": "1,33,3,6,15,26,28,51,58,59"
+                }
+            },
+            {
+                "mac_address": "40:B4:CD:66:FF:19",
+                "address_list":
+                [
+                    "192.168.1.97"
+                ],
+                "state": "UP",
+                "customName": "alexa",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "0",
+                "statechangetime": "0",
+                "statechangetimeout": "-600000",
+                "best_name": "alexa",
+                "best_type_id": "38",
+                "best_make_id": "7042",
+                "best_model_id": "35681",
+                "best_os_id": "1",
+                "best_type": "VOICE_CONTROL",
+                "best_make": "Amazon",
+                "best_model": "Echo",
+                "best_os": "Android",
+                "best_family": "Smart Speaker",
+                "best_family_id": "237888",
+                "recog_rank": "21",
+                "host_name": "amazon-c70362659.station",
+                "mac_vendor": "Amazon",
+                "mac_vendor_changed": "1479340800000",
+                "leads":
+                [
+                    {
+                        "recog_type": "H:USRINMAP",
+                        "type": "VOICE_CONTROL",
+                        "market_make": "Amazon",
+                        "make": "AMAZON",
+                        "market_model": "Echo",
+                        "model": "ECHO",
+                        "recog_rank": "21"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "market_make": "Amazon",
+                        "make": "AMAZON",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "VOICE_CONTROL",
+                        "market_make": "Amazon",
+                        "make": "AMAZON",
+                        "os": "Android",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "VOICE_CONTROL",
+                        "market_make": "AMAZON",
+                        "make": "AMAZON",
+                        "market_model": "ECHO",
+                        "model": "ECHO",
+                        "os": "Android",
+                        "recog_rank": "9"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "none"
+                }
+            },
+            {
+                "mac_address": "60:33:4B:17:4F:CE",
+                "address_list":
+                [
+                    "192.168.1.11"
+                ],
+                "state": "DOWN",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643315917364",
+                "lastseentime": "1643744515211",
+                "statechangetime": "1643750114186",
+                "prevstatetime": "1643744515211",
+                "statechangetimeout": "-600000",
+                "best_name": "MacBook-Pro-di-Giuseppe",
+                "best_type_id": "26",
+                "best_make_id": "4227",
+                "best_model_id": "192513",
+                "best_os_id": "7963",
+                "best_type": "LAPTOP",
+                "best_make": "Apple",
+                "best_model": "MacBook Pro",
+                "best_os": "macOS",
+                "best_osver": "17.0.0",
+                "best_family": "MacBook",
+                "best_family_id": "105176",
+                "isFamily": "true",
+                "recog_rank": "40",
+                "ownerName": "Giuseppe",
+                "mac_vendor": "Apple",
+                "mac_vendor_changed": "1506643200000",
+                "last_dhcp_request_time": "1643744515211",
+                "logs":
+                [
+                    {
+                        "time": "1643750114186",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643744515211"
+                    },
+                    {
+                        "time": "1643744515211",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643744515211"
+                    },
+                    {
+                        "time": "1643699900175",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643698957705"
+                    },
+                    {
+                        "time": "1643698957705",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643698957705"
+                    },
+                    {
+                        "time": "1643646361233",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643645393289"
+                    },
+                    {
+                        "time": "1643645393289",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643645393289"
+                    },
+                    {
+                        "time": "1643639096738",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643638153786"
+                    },
+                    {
+                        "time": "1643638139207",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643638139207"
+                    },
+                    {
+                        "time": "1643513768960",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643512832298"
+                    },
+                    {
+                        "time": "1643513768960",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643512832298"
+                    },
+                    {
+                        "time": "1643451322171",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643450379820"
+                    },
+                    {
+                        "time": "1643450379820",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643450379820"
+                    },
+                    {
+                        "time": "1643439359767",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643438433460"
+                    },
+                    {
+                        "time": "1643438433460",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643438433460"
+                    },
+                    {
+                        "time": "1643320497072",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643318129863"
+                    },
+                    {
+                        "time": "1643315917364",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643315917364"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:BONJOUR",
+                        "type": "LAPTOP",
+                        "market_make": "Apple",
+                        "make": "APPLE",
+                        "market_model": "MacBook PRO",
+                        "os": "macOS",
+                        "recog_rank": "38"
+                    },
+                    {
+                        "recog_type": "H:DS-ML",
+                        "type": "COMPUTER",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "os": "macOS",
+                        "recog_rank": "33"
+                    },
+                    {
+                        "recog_type": "H:R7R",
+                        "type": "COMPUTER",
+                        "market_make": "Apple",
+                        "make": "APPLE",
+                        "os": "macOS",
+                        "osver": "17.0.0",
+                        "recog_rank": "25"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "LAPTOP",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "market_model": "MACBOOK PRO (15\") (MID 2010)",
+                        "model": "MACBOOK PRO (15\") (MID 2010)",
+                        "os": "macOS",
+                        "recog_rank": "22"
+                    },
+                    {
+                        "recog_type": "H:HOSTNAME",
+                        "type": "LAPTOP",
+                        "market_make": "Apple",
+                        "make": "APPLE",
+                        "market_model": "MacBook PRO",
+                        "model": "MacBook PRO",
+                        "os": "macOS",
+                        "recog_rank": "20"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "LAPTOP",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "market_model": "MACBOOK",
+                        "model": "MACBOOK",
+                        "os": "macOS",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "LAPTOP",
+                        "market_make": "Apple",
+                        "make": "APPLE",
+                        "market_model": "MacBook PRO",
+                        "model": "MacBook PRO",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "LAPTOP",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "market_model": "MACBOOK",
+                        "model": "MACBOOK",
+                        "os": "macOS",
+                        "recog_rank": "7"
+                    },
+                    {
+                        "recog_type": "H:USRINMAP-MACCLS",
+                        "type": "LAPTOP",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "market_model": "MACBOOK",
+                        "model": "MACBOOK",
+                        "os": "OS X",
+                        "recog_rank": "2"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "MacBook-Pro-di-Giuseppe"
+                },
+                "dhcp":
+                {
+                    "name": "MBP-di-Giuseppe",
+                    "params": "1,121,3,6,15,119,252,95,44,46"
+                },
+                "smbInfo":
+                {
+                    "timestamp": "1643692471161",
+                    "nativeOS": "Mac OS X 10.13",
+                    "nativeLM": "SMBFS 3.2.3"
+                }
+            },
+            {
+                "mac_address": "3A:E8:50:49:89:5D",
+                "address_list":
+                [
+                    "192.168.1.13"
+                ],
+                "state": "DOWN",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "1643806397426",
+                "statechangetime": "1643807350686",
+                "prevstatetime": "1643806397426",
+                "statechangetimeout": "-600000",
+                "best_name": "OPPO-A72",
+                "best_type_id": "2",
+                "best_make_id": "2925",
+                "best_model_id": "347384",
+                "best_os_id": "11143",
+                "best_type": "MOBILE",
+                "best_make": "Oppo",
+                "best_model": "A72",
+                "best_os": "Android",
+                "best_osver": "11",
+                "best_family": "A Series",
+                "best_family_id": "618282",
+                "recog_rank": "30",
+                "host_name": "OPPO-A72.station",
+                "last_dhcp_request_time": "1643804580661",
+                "logs":
+                [
+                    {
+                        "time": "1643807350686",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643806397426"
+                    },
+                    {
+                        "time": "1643806397426",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643806397426"
+                    },
+                    {
+                        "time": "1643805352038",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643804443478"
+                    },
+                    {
+                        "time": "1643803392675",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643803392675"
+                    },
+                    {
+                        "time": "1643802222110",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643801263589"
+                    },
+                    {
+                        "time": "1643787447766",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643787447766"
+                    },
+                    {
+                        "time": "1643786235278",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643783543774"
+                    },
+                    {
+                        "time": "1643783543774",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643783543774"
+                    },
+                    {
+                        "time": "1643776364827",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643754294179"
+                    },
+                    {
+                        "time": "1643725977926",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643725977926"
+                    },
+                    {
+                        "time": "1643708531668",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643706698083"
+                    },
+                    {
+                        "time": "1643693535730",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643692600551"
+                    },
+                    {
+                        "time": "1643671658256",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643669859542"
+                    },
+                    {
+                        "time": "1643646361233",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643646361233"
+                    },
+                    {
+                        "time": "1643644497163",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643643593325"
+                    },
+                    {
+                        "time": "1643642698046",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643642698046"
+                    },
+                    {
+                        "time": "1643621699908",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643620886071"
+                    },
+                    {
+                        "time": "1643619945594",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643619945594"
+                    },
+                    {
+                        "time": "1643619899888",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643518409145"
+                    },
+                    {
+                        "time": "1643517709695",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643517709695"
+                    },
+                    {
+                        "time": "1643500513413",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643499523614"
+                    },
+                    {
+                        "time": "1643454986811",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643454986811"
+                    },
+                    {
+                        "time": "1643447624939",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643446696462"
+                    },
+                    {
+                        "time": "1643435732197",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643435710439"
+                    },
+                    {
+                        "time": "1643430283579",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643429380070"
+                    },
+                    {
+                        "time": "1643429380070",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643429380070"
+                    },
+                    {
+                        "time": "1643416633158",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643415694126"
+                    },
+                    {
+                        "time": "1643416633158",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643415694126"
+                    },
+                    {
+                        "time": "1643411148368",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643410205006"
+                    },
+                    {
+                        "time": "1643385301537",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643385301537"
+                    },
+                    {
+                        "time": "1643362743214",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643360598524"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "MOBILE",
+                        "market_make": "OPPO",
+                        "make": "OPPO",
+                        "market_model": "A72",
+                        "model": "A72",
+                        "os": "Android",
+                        "recog_rank": "30"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "MOBILE",
+                        "market_make": "OPPO",
+                        "make": "OPPO",
+                        "market_model": "A72",
+                        "model": "A72",
+                        "os": "Android",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "os": "Android",
+                        "osver": "11",
+                        "recog_rank": "10"
+                    }
+                ],
+                "dhcp":
+                {
+                    "name": "OPPO-A72",
+                    "vendor": "android-dhcp-11",
+                    "params": "1,3,6,15,26,28,51,58,59,43,114,108"
+                }
+            },
+            {
+                "mac_address": "5C:C1:D7:13:9E:49",
+                "address_list":
+                [
+                    "192.168.1.18"
+                ],
+                "state": "DOWN",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643307867303",
+                "lastseentime": "1643742891761",
+                "statechangetime": "1643744515211",
+                "prevstatetime": "1643742891761",
+                "statechangetimeout": "-600000",
+                "best_name": "[TV] Samsung Q60 Series (55)",
+                "best_type_id": "10",
+                "best_make_id": "4819",
+                "best_model_id": "458470",
+                "best_os_id": "9",
+                "best_type": "TELEVISION",
+                "best_make": "Samsung",
+                "best_model": "QE55Q60TAUXZT",
+                "best_os": "Tizen",
+                "best_family": "TV",
+                "best_family_id": "233976",
+                "recog_rank": "46",
+                "best_sno": "0EZ83HCN900214P",
+                "host_name": "Samsung.station",
+                "mac_vendor": "Samsung",
+                "mac_vendor_changed": "1575417600000",
+                "last_dhcp_request_time": "1643653591340",
+                "logs":
+                [
+                    {
+                        "time": "1643744515211",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643742891761"
+                    },
+                    {
+                        "time": "1643744515211",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643742891761"
+                    },
+                    {
+                        "time": "1643657915582",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643657015504"
+                    },
+                    {
+                        "time": "1643651578577",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643651578577"
+                    },
+                    {
+                        "time": "1643494031239",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643492548177"
+                    },
+                    {
+                        "time": "1643486085007",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643486085007"
+                    },
+                    {
+                        "time": "1643473310788",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643472408088"
+                    },
+                    {
+                        "time": "1643472326986",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643471430208"
+                    },
+                    {
+                        "time": "1643470567044",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643469662614"
+                    },
+                    {
+                        "time": "1643469662614",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643469662614"
+                    },
+                    {
+                        "time": "1643407466247",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643406522136"
+                    },
+                    {
+                        "time": "1643406522136",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643406503041"
+                    },
+                    {
+                        "time": "1643400118990",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643399155054"
+                    },
+                    {
+                        "time": "1643399215362",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643399155054"
+                    },
+                    {
+                        "time": "1643390046398",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643389150741"
+                    },
+                    {
+                        "time": "1643374816451",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643374816451"
+                    },
+                    {
+                        "time": "1643315917364",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643315017461"
+                    },
+                    {
+                        "time": "1643307867303",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643307867303"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:UPnP",
+                        "type": "TELEVISION",
+                        "market_make": "Samsung",
+                        "make": "SAMSUNG",
+                        "market_model": "QE55Q60TAUXZT",
+                        "model": "QE55Q60TAUXZT",
+                        "recog_rank": "40"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "TELEVISION",
+                        "market_make": "SAMSUNG",
+                        "make": "SAMSUNG",
+                        "os": "Tizen",
+                        "recog_rank": "32"
+                    },
+                    {
+                        "recog_type": "H:BONJOUR2",
+                        "market_make": "Samsung",
+                        "make": "Samsung",
+                        "market_model": "QTQ60",
+                        "model": "QTQ60",
+                        "serial": "0EZ83HCN900214P",
+                        "recog_rank": "30"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "TELEVISION",
+                        "market_make": "Samsung",
+                        "make": "SAMSUNG",
+                        "os": "Tizen",
+                        "recog_rank": "24"
+                    },
+                    {
+                        "recog_type": "H:BONJOUR",
+                        "type": "MEDIA_PLAYER",
+                        "recog_rank": "19"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "TELEVISION",
+                        "market_make": "Samsung",
+                        "make": "SAMSUNG",
+                        "os": "Tizen",
+                        "recog_rank": "10"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "Samsung-2",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "Samsung Q60 Series (55)._airplay._tcp.local.",
+                            "addinfos":
+                            {
+                                "acl": "0",
+                                "deviceid": "5C:C1:D7:13:9E:49",
+                                "features": "0x7F8AD0,0x38BCB46",
+                                "flags": "0x204",
+                                "fv": "p20.T-NKLDEUC-2101.2",
+                                "gcgl": "0",
+                                "gid": "00000000-0000-0000-0000-29899C0EF936",
+                                "manufacturer": "Samsung",
+                                "model": "QTQ60",
+                                "pi": "29:89:9C:0E:F9:36",
+                                "pk": "236a39aa61ef6d94c3d9ecdc8fb203216d6b6d55a7a23317bc686102eb581be9",
+                                "protovers": "1.1",
+                                "psi": "00000000-0000-0000-0000-29899C0EF936",
+                                "rsf": "0x3",
+                                "serialNumber": "0EZ83HCN900214P",
+                                "srcvers": "377.25.06"
+                            }
+                        }
+                    ]
+                },
+                "upnp":
+                {
+                    "name": "[TV] Samsung Q60 Series (55)",
+                    "make": "Samsung",
+                    "model": "QE55Q60TAUXZT",
+                    "serialNumber": "20090804RCR",
+                    "type_list":
+                    [
+                        "urn:dial-multiscreen-org:device:dialreceiver:1",
+                        "urn:samsung.com:device:ScreenMirroring:1",
+                        "urn:schemas-upnp-org:device:MediaRenderer:1"
+                    ],
+                    "service_list":
+                    [
+                        "urn:dial-multiscreen-org:service:dial:1",
+                        "urn:samsung.com:service:ScreenSharingService:1",
+                        "urn:schemas-upnp-org:service:AVTransport:1",
+                        "urn:schemas-upnp-org:service:ConnectionManager:1",
+                        "urn:schemas-upnp-org:service:RenderingControl:1"
+                    ]
+                },
+                "dhcp":
+                {
+                    "name": "Samsung",
+                    "vendor": "udhcpc1.21.1",
+                    "params": "1,3,26,252,43,42,6,12"
+                }
+            },
+            {
+                "mac_address": "1E:CD:2A:68:F4:E3",
+                "address_list":
+                [
+                    "192.168.1.20"
+                ],
+                "state": "DOWN",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643299036270",
+                "lastseentime": "1643808360869",
+                "statechangetime": "1643809764850",
+                "prevstatetime": "1643807350686",
+                "statechangetimeout": "-1200000",
+                "best_type_id": "2",
+                "best_make_id": "4227",
+                "best_os_id": "5",
+                "best_type": "MOBILE",
+                "best_make": "Apple",
+                "best_os": "iOS",
+                "recog_rank": "4",
+                "last_dhcp_request_time": "1643807415400",
+                "logs":
+                [
+                    {
+                        "time": "1643809764850",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643808360869"
+                    },
+                    {
+                        "time": "1643807350686",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643807350686"
+                    },
+                    {
+                        "time": "1643783543774",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643776364827"
+                    },
+                    {
+                        "time": "1643744515211",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643742889911"
+                    },
+                    {
+                        "time": "1643741293290",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643739305768"
+                    },
+                    {
+                        "time": "1643735505943",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643735505943"
+                    },
+                    {
+                        "time": "1643733703847",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643732473332"
+                    },
+                    {
+                        "time": "1643726913566",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643726913566"
+                    },
+                    {
+                        "time": "1643725977926",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643723479906"
+                    },
+                    {
+                        "time": "1643720935928",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643720935928"
+                    },
+                    {
+                        "time": "1643698957705",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643697151431"
+                    },
+                    {
+                        "time": "1643650650874",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643650572254"
+                    },
+                    {
+                        "time": "1643645393289",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643643593325"
+                    },
+                    {
+                        "time": "1643619945594",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643619945594"
+                    },
+                    {
+                        "time": "1643619899888",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643518409145"
+                    },
+                    {
+                        "time": "1643503168217",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643503168217"
+                    },
+                    {
+                        "time": "1643495895421",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643494031239"
+                    },
+                    {
+                        "time": "1643492548177",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643492548177"
+                    },
+                    {
+                        "time": "1643486985580",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643485188743"
+                    },
+                    {
+                        "time": "1643476092234",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643476092234"
+                    },
+                    {
+                        "time": "1643472326986",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643470567044"
+                    },
+                    {
+                        "time": "1643430283579",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643430283579"
+                    },
+                    {
+                        "time": "1643407466247",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643405641353"
+                    },
+                    {
+                        "time": "1643388243788",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643388243788"
+                    },
+                    {
+                        "time": "1643385301537",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643373916439"
+                    },
+                    {
+                        "time": "1643369890564",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643369890564"
+                    },
+                    {
+                        "time": "1643318129863",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643316329837"
+                    },
+                    {
+                        "time": "1643312714963",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643312714963"
+                    },
+                    {
+                        "time": "1643307867303",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643300008073"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "MOBILE",
+                        "market_make": "APPLE",
+                        "make": "APPLE",
+                        "os": "iOS",
+                        "recog_rank": "4"
+                    }
+                ],
+                "dhcp":
+                {
+                    "params": "1,121,3,6,15,108,114,119,252"
+                }
+            },
+            {
+                "mac_address": "40:99:22:6C:62:7F",
+                "address_list":
+                [
+                    "192.168.1.24"
+                ],
+                "state": "DOWN",
+                "customChangeTime": "0",
+                "favorite": "false",
+                "important": "false",
+                "firstseentime": "1643307867303",
+                "lastseentime": "1643724380435",
+                "statechangetime": "1643725977926",
+                "prevstatetime": "1643722758301",
+                "statechangetimeout": "-600000",
+                "best_name": "PS4-2A33A4",
+                "best_type_id": "11",
+                "best_make_id": "11322",
+                "best_model_id": "104584",
+                "best_type": "GAME_CONSOLE",
+                "best_make": "Sony",
+                "best_model": "PlayStation 4",
+                "best_family": "PlayStation",
+                "best_family_id": "121708",
+                "recog_rank": "39",
+                "host_name": "ps3.station",
+                "mac_vendor": "AzureWave Technology",
+                "mac_vendor_changed": "1493683200000",
+                "last_dhcp_request_time": "1643722204436",
+                "logs":
+                [
+                    {
+                        "time": "1643725977926",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643724380435"
+                    },
+                    {
+                        "time": "1643723457996",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643722758301"
+                    },
+                    {
+                        "time": "1643663435860",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643662510527"
+                    },
+                    {
+                        "time": "1643658842362",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643658842362"
+                    },
+                    {
+                        "time": "1643646361233",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643645461148"
+                    },
+                    {
+                        "time": "1643643593325",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643643593325"
+                    },
+                    {
+                        "time": "1643638139207",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643637232922"
+                    },
+                    {
+                        "time": "1643637232922",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643636304523"
+                    },
+                    {
+                        "time": "1643489762575",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643488837772"
+                    },
+                    {
+                        "time": "1643486085007",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643485187156"
+                    },
+                    {
+                        "time": "1643465053232",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643464130836"
+                    },
+                    {
+                        "time": "1643457746662",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643457671121"
+                    },
+                    {
+                        "time": "1643391870302",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643390944117"
+                    },
+                    {
+                        "time": "1643387173257",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643387173257"
+                    },
+                    {
+                        "time": "1643374816451",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643373916439"
+                    },
+                    {
+                        "time": "1643373916439",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643373916439"
+                    },
+                    {
+                        "time": "1643320497072",
+                        "state":
+                        {
+                            "change": "DOWN"
+                        },
+                        "sharptime": "1643318129863"
+                    },
+                    {
+                        "time": "1643307867303",
+                        "state":
+                        {
+                            "change": "UP"
+                        },
+                        "sharptime": "1643307867303"
+                    }
+                ],
+                "leads":
+                [
+                    {
+                        "recog_type": "H:BONJOUR",
+                        "type": "GAME_CONSOLE",
+                        "market_make": "Sony",
+                        "make": "SONY",
+                        "market_model": "Playstation 4",
+                        "model": "Playstation 4",
+                        "recog_rank": "38"
+                    },
+                    {
+                        "recog_type": "H:DHCP",
+                        "type": "GAME_CONSOLE",
+                        "market_make": "SONY",
+                        "make": "SONY",
+                        "market_model": "PLAYSTATION 4",
+                        "model": "PLAYSTATION 4",
+                        "recog_rank": "30"
+                    },
+                    {
+                        "recog_type": "H:MACCLUSTER",
+                        "type": "GAME_CONSOLE",
+                        "market_make": "SONY",
+                        "make": "SONY",
+                        "market_model": "PLAYSTATION 4",
+                        "model": "PLAYSTATION 4",
+                        "recog_rank": "23"
+                    },
+                    {
+                        "recog_type": "H:VHNAME",
+                        "type": "GAME_CONSOLE",
+                        "market_make": "SONY",
+                        "make": "SONY",
+                        "market_model": "PLAYSTATION",
+                        "model": "PLAYSTATION",
+                        "recog_rank": "10"
+                    },
+                    {
+                        "recog_type": "H:EMPIRIC",
+                        "type": "GAME_CONSOLE",
+                        "market_make": "Sony",
+                        "make": "SONY",
+                        "market_model": "Playstation 4",
+                        "model": "Playstation 4",
+                        "recog_rank": "10"
+                    }
+                ],
+                "bonjour":
+                {
+                    "name": "PS4-2A33A4",
+                    "serviceinfo_list":
+                    [
+                        {
+                            "name": "SpZc-2A33A4._spotify-connect._tcp.local.",
+                            "addinfos":
+                            {
+                                "CPath": "\/spConn"
+                            }
+                        }
+                    ]
+                },
+                "dhcp":
+                {
+                    "vendor": "PS4\u0000",
+                    "params": "1,3,15,6"
+                }
+            }
+        ]
+    }
+}

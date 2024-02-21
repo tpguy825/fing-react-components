@@ -1,0 +1,228 @@
+{
+    "node":
+    {
+        "mac_address": "38:F9:D3:89:D7:16",
+        "address_list":
+        [
+            "10.22.0.11"
+        ],
+        "state": "UP",
+        "customChangeTime": "0",
+        "favorite": "false",
+        "important": "false",
+        "firstseentime": "1634809680115",
+        "lastseentime": "0",
+        "statechangetime": "1642066018067",
+        "prevstatetime": "1641913978583",
+        "statechangetimeout": "-600000",
+        "best_name": "agiuli-C02Y71CMJHD3",
+        "best_type_id": "25",
+        "best_make_id": "4227",
+        "best_os_id": "15",
+        "best_type": "COMPUTER",
+        "best_make": "Apple",
+        "best_os": "macOS",
+        "recog_rank": "25",
+        "mac_vendor": "Apple",
+        "mac_vendor_changed": "1534636800000",
+        "last_dhcp_request_time": "1642065972237",
+        "logs":
+        [
+            {
+                "time": "1642066018067",
+                "state":
+                {
+                    "change": "UP"
+                },
+                "sharptime": "1642066018067"
+            },
+            {
+                "time": "1642062594169",
+                "state":
+                {
+                    "change": "DOWN"
+                },
+                "sharptime": "1641913978583"
+            },
+            {
+                "time": "1641892173298",
+                "state":
+                {
+                    "change": "UP"
+                },
+                "sharptime": "1641892173298"
+            },
+            {
+                "time": "1641279122625",
+                "state":
+                {
+                    "change": "DOWN"
+                },
+                "sharptime": "1639653394011"
+            },
+            {
+                "time": "1639653394011",
+                "state":
+                {
+                    "change": "UP"
+                },
+                "sharptime": "1639653394011"
+            },
+            {
+                "time": "1639639700173",
+                "state":
+                {
+                    "change": "DOWN"
+                },
+                "sharptime": "1639493067058"
+            },
+            {
+                "time": "1639480275933",
+                "state":
+                {
+                    "change": "UP"
+                },
+                "sharptime": "1639480275933"
+            },
+            {
+                "time": "1639467447474",
+                "state":
+                {
+                    "change": "DOWN"
+                },
+                "sharptime": "1639062717493"
+            },
+            {
+                "time": "1639040907338",
+                "state":
+                {
+                    "change": "UP"
+                },
+                "sharptime": "1639040907338"
+            },
+            {
+                "time": "1638862421553",
+                "state":
+                {
+                    "change": "DOWN"
+                },
+                "sharptime": "1638455976224"
+            },
+            {
+                "time": "1637848768439",
+                "state":
+                {
+                    "change": "UP"
+                },
+                "sharptime": "1637848768439"
+            },
+            {
+                "time": "1637845168448",
+                "state":
+                {
+                    "change": "DOWN"
+                },
+                "sharptime": "1637840980105"
+            },
+            {
+                "time": "1637836666202",
+                "state":
+                {
+                    "change": "UP"
+                },
+                "sharptime": "1637836666202"
+            },
+            {
+                "time": "1637833066132",
+                "state":
+                {
+                    "change": "DOWN"
+                },
+                "sharptime": "1636644368945"
+            },
+            {
+                "time": "1636621657547",
+                "state":
+                {
+                    "change": "UP"
+                },
+                "sharptime": "1636621657547"
+            },
+            {
+                "time": "1636613368774",
+                "state":
+                {
+                    "change": "DOWN"
+                },
+                "sharptime": "1634811961926"
+            },
+            {
+                "time": "1634809680115",
+                "state":
+                {
+                    "change": "UP"
+                },
+                "sharptime": "1634809680115"
+            }
+        ],
+        "bonjour":
+        {
+            "name": "agiuli-C02Y71CMJHD3",
+            "serviceinfo_list":
+            [
+                {
+                    "name": "agiuli-C02Y71CMJHD3 [38:f9:d3:89:d7:16]._workstation._tcp.local.",
+                    "addinfos":
+                    {
+                        "uuid": "E3BD74E7-EDDD-5EB2-B8FA-C6EE4575F6CA"
+                    }
+                }
+            ]
+        },
+        "dhcp":
+        {
+            "params": "1,121,3,6,15,114,119,252,95,44,46"
+        }
+    },
+    "recogCatalog":
+    {
+        "recogMake":
+        {
+            "id": "4227",
+            "makeKey": "APPLE",
+            "makeName": "Apple",
+            "lastUpdateTime": "1634285820000",
+            "countryCode": "US",
+            "logoImageUrl": "https:\/\/cdn.fing.io\/images\/brand\/APPLE_LOGO.png",
+            "wikipediaId": "Apple_Inc.",
+            "wikipediaLangCode": "en",
+            "websiteUrl": "https:\/\/www.apple.com\/",
+            "supportUrl": "https:\/\/support.apple.com\/",
+            "warrantyUrl": "https:\/\/checkcoverage.apple.com\/us\/en\/",
+            "warrantyDirectUrl": "https:\/\/checkcoverage.apple.com\/us\/en\/?sn={sno}",
+            "communityUrl": "https:\/\/discussions.apple.com\/welcome",
+            "facebookAccount": "apple",
+            "twitterAccount": "apple",
+            "linkedinAccount": "apple",
+            "instagramAccount": "apple",
+            "youtubeAccount": "user\/Apple",
+            "classHardware": "true",
+            "classSoftware": "true",
+            "classConsumer": "true"
+        },
+        "recogOs":
+        {
+            "id": "15",
+            "osKey": "MACOS",
+            "osName": "macOS",
+            "osVersionName": "macOS",
+            "makeId": "4227",
+            "logoImageUrl": "https:\/\/cdn.fing.io\/images\/os\/MACOS_LOGO.png",
+            "wikipediaId": "MacOS",
+            "wikipediaLangCode": "en",
+            "websiteUrl": "https:\/\/www.apple.com\/it\/macos\/",
+            "supportUrl": "https:\/\/support.apple.com\/",
+            "lastUpdateTime": "1614682380000"
+        }
+    }
+}

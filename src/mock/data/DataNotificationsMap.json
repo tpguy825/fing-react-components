@@ -1,0 +1,762 @@
+{
+    "new":[],
+    "old":[
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "All good in Telecom-89316705",
+                    "body": "Internet and network connectivity look great on Telecom-89316705."
+                },
+                "banner": {
+                    "title": "All good in Telecom-89316705",
+                    "body": "Internet and network connectivity look great on Telecom-89316705.",
+                    "icon": {
+                        "glyph": "fa-check",
+                        "background": "btn-success"
+                    },
+                    "link": null,
+                    "supportPicture": "https://cdn.fing.io/images/isp/IT/logo/tim_logo.png",
+                    "contactInfo": null
+                },
+                "analyticsId": "healthcheck_OK_fix",
+                "time": 1653892379381
+            },
+            "time": 1653892379381
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 6:13 AM"
+                },
+                "banner": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 6:13 AM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653890136520
+            },
+            "time": 1653890136520
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 29 Sun, 9:27 PM"
+                },
+                "banner": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 29 Sun, 9:27 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653886059745
+            },
+            "time": 1653886059745
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 29 Sun, 3:02 PM"
+                },
+                "banner": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 29 Sun, 3:02 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653857564720
+            },
+            "time": 1653857564720
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was down since 29 Sun, 4:27 PM"
+                },
+                "banner": {
+                    "title": "Device is online: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was down since 29 Sun, 4:27 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/28:16:7F:B9:6E:16",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653844391471
+            },
+            "time": 1653844391471
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was up since 29 Sun, 3:02 PM"
+                },
+                "banner": {
+                    "title": "Device is offline: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was up since 29 Sun, 3:02 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/28:16:7F:B9:6E:16",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653840407753
+            },
+            "time": 1653840407753
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was down since 29 Sun, 12:31 PM"
+                },
+                "banner": {
+                    "title": "Device is online: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was down since 29 Sun, 12:31 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/28:16:7F:B9:6E:16",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653831447145
+            },
+            "time": 1653831447145
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 29 Sun, 10:40 AM"
+                },
+                "banner": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 29 Sun, 10:40 AM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653831447144
+            },
+            "time": 1653831447144
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "You have connectivity problems",
+                    "body": "You are experiencing a number of connectivity problems in Telecom-89316705."
+                },
+                "banner": {
+                    "title": "You have connectivity problems",
+                    "body": "You are experiencing a number of connectivity problems in Telecom-89316705.",
+                    "icon": {
+                        "glyph": "fa-times",
+                        "background": "btn-danger"
+                    },
+                    "link": null,
+                    "supportPicture": null,
+                    "contactInfo": null
+                },
+                "analyticsId": "healthcheck_N40F-N801",
+                "time": 1653822833349
+            },
+            "time": 1653822833349
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was up since 28 Sat, 8:14 PM"
+                },
+                "banner": {
+                    "title": "Device is offline: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was up since 28 Sat, 8:14 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/28:16:7F:B9:6E:16",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653822637877
+            },
+            "time": 1653822637877
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 29 Sun, 8:45 AM"
+                },
+                "banner": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 29 Sun, 8:45 AM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653819499800
+            },
+            "time": 1653819499800
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 28 Sat, 8:14 PM"
+                },
+                "banner": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 28 Sat, 8:14 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653808570833
+            },
+            "time": 1653808570833
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 28 Sat, 1:24 PM"
+                },
+                "banner": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 28 Sat, 1:24 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653766939832
+            },
+            "time": 1653766939832
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was down since 28 Sat, 8:16 AM"
+                },
+                "banner": {
+                    "title": "Device is online: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was down since 28 Sat, 8:16 AM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/28:16:7F:B9:6E:16",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653762976121
+            },
+            "time": 1653762976121
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 28 Sat, 7:25 AM"
+                },
+                "banner": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 28 Sat, 7:25 AM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653740001599
+            },
+            "time": 1653740001599
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was up since 27 Fri, 4:48 PM"
+                },
+                "banner": {
+                    "title": "Device is offline: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was up since 27 Fri, 4:48 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/28:16:7F:B9:6E:16",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653725562500
+            },
+            "time": 1653725562500
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 28 Sat, 7:25 AM"
+                },
+                "banner": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 28 Sat, 7:25 AM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653721592937
+            },
+            "time": 1653721592937
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 27 Fri, 2:05 PM"
+                },
+                "banner": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 27 Fri, 2:05 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653717565230
+            },
+            "time": 1653717565230
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "You have warnings on current network",
+                    "body": "Connectivity warning in Telecom-89316705: DHCP is not healthy"
+                },
+                "banner": {
+                    "title": "You have warnings on current network",
+                    "body": "Connectivity warning in Telecom-89316705: DHCP is not healthy",
+                    "icon": {
+                        "glyph": "fa-exclamation",
+                        "background": "btn-warning"
+                    },
+                    "link": null,
+                    "supportPicture": "https://cdn.fing.io/images/isp/IT/logo/tim_logo.png",
+                    "contactInfo": null
+                },
+                "analyticsId": "healthcheck_W415",
+                "time": 1653662988564
+            },
+            "time": 1653662988564
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was down since 27 Fri, 12:04 PM"
+                },
+                "banner": {
+                    "title": "Device is online: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was down since 27 Fri, 12:04 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/28:16:7F:B9:6E:16",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653662982033
+            },
+            "time": 1653662982033
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "All good in Telecom-89316705",
+                    "body": "Internet and network connectivity look great on Telecom-89316705."
+                },
+                "banner": {
+                    "title": "All good in Telecom-89316705",
+                    "body": "Internet and network connectivity look great on Telecom-89316705.",
+                    "icon": {
+                        "glyph": "fa-check",
+                        "background": "btn-success"
+                    },
+                    "link": null,
+                    "supportPicture": "https://cdn.fing.io/images/isp/IT/logo/tim_logo.png",
+                    "contactInfo": null
+                },
+                "analyticsId": "healthcheck_OK_fix",
+                "time": 1653655283467
+            },
+            "time": 1653655283467
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 27 Fri, 11:34 AM"
+                },
+                "banner": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 27 Fri, 11:34 AM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653654718674
+            },
+            "time": 1653654718674
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was up since 26 Thu, 4:06 PM"
+                },
+                "banner": {
+                    "title": "Device is offline: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was up since 26 Thu, 4:06 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/28:16:7F:B9:6E:16",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653653096498
+            },
+            "time": 1653653096498
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 26 Thu, 6:10 PM"
+                },
+                "banner": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 26 Thu, 6:10 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653644703764
+            },
+            "time": 1653644703764
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 26 Thu, 5:55 PM"
+                },
+                "banner": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 26 Thu, 5:55 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653614180991
+            },
+            "time": 1653614180991
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 26 Thu, 3:46 PM"
+                },
+                "banner": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since 26 Thu, 3:46 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653580556397
+            },
+            "time": 1653580556397
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was down since Apr 4, 11:51 AM"
+                },
+                "banner": {
+                    "title": "Device is online: RedmiNote8-Redmi",
+                    "body": "Xiaomi / Mi Note was down since Apr 4, 11:51 AM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/28:16:7F:B9:6E:16",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653574586235
+            },
+            "time": 1653574586235
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 26 Thu, 3:46 PM"
+                },
+                "banner": {
+                    "title": "Device is offline: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was up since 26 Thu, 3:46 PM",
+                    "icon": {
+                        "glyph": "fa-arrow-down text-dark",
+                        "background": "btn-soft-dark"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-down",
+                "time": 1653573686296
+            },
+            "time": 1653573686296
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "New device detected: localhost",
+                    "body": "Samsung / UE55K5607 is new in network"
+                },
+                "banner": {
+                    "title": "New device detected: localhost",
+                    "body": "Samsung / UE55K5607 is new in network",
+                    "icon": {
+                        "glyph": "fa-burn",
+                        "background": "btn-warning"
+                    },
+                    "link": "/discovery/device/40:16:3B:0A:8E:48",
+                    "supportPicture": "TELEVISION",
+                    "contactInfo": null
+                },
+                "analyticsId": "device-new",
+                "time": 1653573686294
+            },
+            "time": 1653573686294
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since Apr 1, 11:15 AM"
+                },
+                "banner": {
+                    "title": "Device is online: Redmi7-Redmi",
+                    "body": "Xiaomi / Redmi 7 was down since Apr 1, 11:15 AM",
+                    "icon": {
+                        "glyph": "fa-arrow-up",
+                        "background": "btn-primary"
+                    },
+                    "link": "/discovery/device/A8:9C:ED:34:41:83",
+                    "supportPicture": "MOBILE"
+                },
+                "analyticsId": "device-up",
+                "time": 1653572768572
+            },
+            "time": 1653572768572
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "New device detected: 08:EC:A9:4E:24:5E",
+                    "body": "08:EC:A9:4E:24:5E (08:EC:A9:4E:24:5E) is new in network"
+                },
+                "banner": {
+                    "title": "New device detected: 08:EC:A9:4E:24:5E",
+                    "body": "08:EC:A9:4E:24:5E (08:EC:A9:4E:24:5E) is new in network",
+                    "icon": {
+                        "glyph": "fa-burn",
+                        "background": "btn-warning"
+                    },
+                    "link": "/discovery/device/08:EC:A9:4E:24:5E",
+                    "supportPicture": "MOBILE",
+                    "contactInfo": null
+                },
+                "analyticsId": "device-new",
+                "time": 1653569148542
+            },
+            "time": 1653569148542
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "New device detected: realme-GT-Master-Edition",
+                    "body": "Realme / GT Master Edition is new in network"
+                },
+                "banner": {
+                    "title": "New device detected: realme-GT-Master-Edition",
+                    "body": "Realme / GT Master Edition is new in network",
+                    "icon": {
+                        "glyph": "fa-burn",
+                        "background": "btn-warning"
+                    },
+                    "link": "/discovery/device/AE:E2:16:E4:CD:73",
+                    "supportPicture": "MOBILE",
+                    "contactInfo": null
+                },
+                "analyticsId": "device-new",
+                "time": 1653569148542
+            },
+            "time": 1653569148542
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "You have warnings on current network",
+                    "body": "Connectivity warning in Telecom-89316705: DHCP is not healthy"
+                },
+                "banner": {
+                    "title": "You have warnings on current network",
+                    "body": "Connectivity warning in Telecom-89316705: DHCP is not healthy",
+                    "icon": {
+                        "glyph": "fa-exclamation",
+                        "background": "btn-warning"
+                    },
+                    "link": null,
+                    "supportPicture": "https://cdn.fing.io/images/isp/IT/logo/tim_logo.png",
+                    "contactInfo": null
+                },
+                "analyticsId": "healthcheck_W415",
+                "time": 1653567706991
+            },
+            "time": 1653567706991
+        },
+        {
+            "key": "agent",
+            "data": {
+                "toast": {
+                    "title": "Warnings on just joined network",
+                    "body": "Network Telecom-89316705 is working but you have a number of warnings."
+                },
+                "banner": {
+                    "title": "Warnings on just joined network",
+                    "body": "Network Telecom-89316705 is working but you have a number of warnings.",
+                    "icon": {
+                        "glyph": "fa-exclamation",
+                        "background": "btn-warning"
+                    },
+                    "link": null,
+                    "supportPicture": "https://cdn.fing.io/images/isp/IT/logo/tim_logo.png",
+                    "contactInfo": null
+                },
+                "analyticsId": "healthcheck_W402-W415",
+                "time": 1653553311634
+            },
+            "time": 1653553311634
+        }
+    ]
+}

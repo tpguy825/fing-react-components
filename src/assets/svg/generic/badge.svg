@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Toolbars-and-Actions" stroke="none" stroke-width="1" fill="current" fill-rule="evenodd">
+        <g id="Discovery/Network-(24x24)" transform="translate(-240.000000, 0.000000)" fill="current">
+            <g id="Premium_badge_24dp" transform="translate(240.000000, 0.000000)">
+                <g transform="translate(3.000000, 0.000000)" id="Shape">
+                    <path d="M2.66667,0 L16,0 C17.4667,0 18.6667,1.2 18.6667,2.66667 L18.6667,24 L9.3333,20 L0,24 L0,2.66667 C0,1.2 1.2,0 2.66667,0 Z M11.8925,7.66841 L16.3601,8.0561 C17.1724,8.12072 17.4955,9.13609 16.877,9.67147 L13.4894,12.6068 L14.5047,16.9729 C14.6894,17.7668 13.8309,18.3945 13.1294,17.9698 L9.2986,15.6529 L5.46791,17.9606 C4.76638,18.3852 3.90793,17.7575 4.09254,16.9637 L5.10792,12.6068 L1.72026,9.67147 C1.1018,9.13609 1.43411,8.12072 2.24641,8.0561 L6.70482,7.67764 L8.4494,3.56076 C8.7633,2.81308 9.834,2.81308 10.1479,3.56076 L11.8925,7.66841 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

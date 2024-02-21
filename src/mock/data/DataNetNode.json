@@ -1,0 +1,207 @@
+{
+    "mac_address": "44:D3:AD:2D:F6:7F",
+    "recognizing": "true",
+    "address_list": ["192.168.43.10","192.168.43.11","192.168.43.12"],
+    "state": "UP",
+    "selfNode": "true",
+    "customType": "VOICE_CONTROL",
+    "customName": "CTQ2C",
+    "customNote": "Grigio Siderale",
+    "customLocation": "Via Ostiense 92",
+    "customChangeTime": "1656411373888",
+    "alertOnStateChange": "true",
+    "favorite": "false",
+    "important": "false",
+    "firstseentime": "1656411373888",
+    "lastseentime": "1656411373888",
+    "statechangetime": "0",
+    "prevstatetime": "1656411373888",
+    "statechangetimeout": "-6000",
+    "best_name": "FVFFD20GQ05P",
+    "best_type_id": "26",
+    "best_make_id": "4227",
+    "best_model_id": "516071",
+    "best_os_id": "62622",
+    "best_type": "LAPTOP",
+    "best_make": "Apple",
+    "best_model": "MacBook Pro M1 13\" (2020)",
+    "best_os": "macOS",
+    "best_osver": "21.6.0",
+    "best_osbuild": "21G83",
+    "best_family": "MacBook Pro",
+    "best_family_id": "192513",
+    "isFamily": "false",
+    "recog_rank": "43",
+    "best_sno": "FVFFD20GQ05P",
+    "ownerName": "",
+    "contactId": "cc20b67c-7972-46d8-ba0d-daf494b1b418",
+    "digitalPresence": "true",
+    "host_name": "FVFFD20GQ05P",
+    "mac_vendor": "Shenzhen TINNO Mobile Technology",
+    "mac_vendor_changed": "1656411373888",
+    "last_dhcp_request_time": "1661780795790",
+    "last_deep_scan_time": "1661780795790",
+    "lastTcpServiceScanShot": {
+        "timestamp": "1661780795790",
+        "activePorts": [ "1024" ]
+    },
+    "logs": [
+        {
+            "time": "1600154912626",
+            "state":
+            {
+                "change": "UP"
+            },
+            "sharptime": "1600154912626",
+            "tcpservicestate": {
+                "change": "UP",
+                "port": "1024"
+            }
+        },
+        {
+            "time": "1600154012996",
+            "state":
+            {
+                "change": "DOWN"
+            },
+            "sharptime": "1600060319355",
+            "tcpservicestate": {
+                "change": "UP",
+                "port": "1024"
+            }
+        },
+        {
+            "time": "1596886288356",
+            "state":
+            {
+                "change": "UP"
+            },
+            "sharptime": "1596886288356"
+        }
+    ],
+    "leads": [
+        {
+            "recog_type": "LAPTOP",
+            "type": "LAPTOP",
+            "market_make": "",
+            "make": "Apple",
+            "market_model": "MacBook Pro M1 13\" (2020)",
+            "model": "MacBook Pro M1 13\" (2020)",
+            "serial": "FVFFD20GQ05P",
+            "os": "macOS",
+            "osver": "21.6.0",
+            "recog_rank": "28"
+        }
+    ],
+    "netbios": {
+        "name": "MBPDISTEFANO2",
+        "mac": "20:C9:D0:E4:80:DF",
+        "domain": "fing",
+        "user": "Stefano",
+        "is_file_server": "true",
+        "is_domain_controller": "true"
+    },
+    "bonjour": {
+        "name": "MacBook-Pro-di-Stefano-2",
+        "model": "MacBookPro9,2",
+        "os": "OSX:18",
+        "serviceinfo_list": [
+            {
+                "name": "MacBook Pro di Stefano (2)._companion-link._tcp.local.",
+                "addinfos":
+                {
+                    "rpAD": "94253bb2eb57",
+                    "rpBA": "65:C2:AF:03:3C:FA",
+                    "rpFl": "0x20000",
+                    "rpHN": "26076ac066e5",
+                    "rpVr": "174.23"
+                }
+            },
+            {
+                "name": "MacBook Pro di Stefano (2)._device-info._tcp.local.",
+                "addinfos":
+                {
+                    "model": "MacBookPro9,2",
+                    "osxvers": "18"
+                }
+            }
+        ]
+    },
+    "upnp": {
+        "name": "Fingbox",
+        "make": "Domotz",
+        "model": "Fingbox",
+        "serialNumber": "FVFFD20GQ05P",
+        "type_list":
+            [
+                "urn:domotz:fingbox:1.14.20"
+            ],
+        "service_list":
+            [
+                "urn:domotz:device:fingbox:active:1",
+                "urn:domotz:device:fingbox:hwp:fingbox-v2018",
+                "urn:domotz:device:fingbox:koss:c16-2.42r7919s_g16.04-0.1.0r7s_k4.9.5r7s",
+                "urn:domotz:device:fingbox:mac:F023B9ED9346",
+                "urn:domotz:device:fingbox:netsign:20B0011E8BFC",
+                "urn:domotz:device:fingbox:recogport:80",
+                "urn:domotz:device:fingbox:ver:1.14.20"
+            ]
+    },
+    "dhcp": {
+        "name": "FVFFD20GQ05P",
+        "params": "1,121,3,6,15,108,114,119,252,95,44,46",
+        "vendor": "Polycom-139139",
+        "mud": "https://www.example.com/yourmudfile.json"
+    },
+    "dhcp6": {
+        "name": "FVFFD20GQ05P",
+        "params": "1,121,3,6,15,108,114,119,252,95,44,46",
+        "vendor": "Polycom-139139",
+        "mud": "https://www.example.com/yourmudfile.json",
+        "enterpriseid": "311"
+    },
+    "http": {
+        "useragent_list": [ "Mozilla" ]
+    },
+    "httpScan": {
+        "timestamp": "1661780795790",
+        "httpserver_list": [
+            {
+                "port": "8080",
+                "ssl": "true",
+                "httpserver": "Apache/2.4.1 (Unix)",
+                "httpwwwauth_list": [ "Basic" ],
+                "httpcookie_list": [ "PHPSESSID=298zf09hf012fh2; csrftoken=u32t4o3tb3gg43; _gat=1" ],
+                "htmltitle": "HTML Title",
+                "htmlfaviconmd5": "HDJSHDJ",
+                "x509issuer_list": [ "CN=John Smith, OU=Test, O=IBM, C=GB" ],
+                "x509subject_list": [ "CN=www.freesoft.org/emailAddress=baccala@freesoft.org" ]
+            }
+        ]
+    },
+    "sshInfo": {
+        "timestamp": "1661780795790",
+        "banner": "..."
+    },
+    "telnetInfo": {
+        "timestamp": "1661780795790",
+        "banner": "..."
+    },
+    "ftpInfo": {
+        "timestamp": "1661780795790",
+        "banner": "..."
+    },
+    "smbInfo": {
+        "timestamp": "1661780795790",
+        "nativeOS": "Native OS",
+        "nativeLM": "Native LM"
+    },
+    "snmp": {
+        "sysoid": "sysoid",
+        "name": "name",
+        "services": "services",
+        "description": "description",
+        "contact": "contact",
+        "location": "location"
+    }
+}

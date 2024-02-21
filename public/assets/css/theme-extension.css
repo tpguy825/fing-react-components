@@ -1,0 +1,60 @@
+/*------------------------------------
+  Sidebar
+------------------------------------*/
+
+:root {
+    --sidebar-width: 220px;
+}
+
+.app-sidebar {
+    width: var(--sidebar-width);
+}
+
+.app-header {
+    left: var(--sidebar-width) !important;
+    width: calc(100% - var(--sidebar-width)) !important;
+}
+
+.app-main {
+    margin-left: var(--sidebar-width) !important;
+}
+
+.app-sidebar-list {
+    margin-top: 1.5rem !important;
+}
+
+.app-sidebar-list li.active {
+    border-left: #f7faff 2px solid;
+    background-color: rgba(247, 250, 255, 0.2);
+}
+
+/*------------------------------------
+  DEVELOPMENT AREA
+  Use this section to hold CSS during component development time. When the result is stable and generic,
+  it should be moved in FING-web-theme project
+------------------------------------*/
+
+/*------------------------------------
+  DON'T USE card-frame CLASS!!
+------------------------------------*/
+.card-frame-s {
+  border: 0.0625rem solid rgba(231, 234, 243, 0.7);
+  box-shadow: none;
+  transition: 0.3s;
+}
+
+.card-frame-s:hover {
+  border-color: #71869d;
+}
+
+.border-secondary-dark {
+    border-color: #d2d2d2 !important;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+/*------------------------------------
+  END OF DEVELOPMENT AREA
+------------------------------------*/

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+
+    <title>Fing React Components</title>
+
+
+
+    <!-- Font [START] -->
+    <link href="%PUBLIC_URL%/assets/css/source-sans-font.css" rel='stylesheet' type='text/css'>
+    <!-- Font [END] -->
+
+    <!-- CSS Front Template -->
+    <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/bootstrap/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/bootstrap/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/font-awesome/css/all.min.css">
+    <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/hs-unfold/hs-unfold.min.css">
+    <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/slick-carousel/slick.css">
+    <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/theme.css">
+    <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/theme-extension.css">
+
+</head>
+
+<body>
+    <div id="root"></div>
+
+    <!-- JS Global Compulsory -->
+    <script src="%PUBLIC_URL%/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="%PUBLIC_URL%/assets/vendor/jquery/jquery-migrate.min.js"></script>
+    <script src="%PUBLIC_URL%/assets/vendor/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="%PUBLIC_URL%/assets/vendor/slick-carousel/slick.min.js"></script>
+    <!-- END -->
+
+    <!-- JS Front -->
+    <script src="%PUBLIC_URL%/assets/js/hs.core.js"></script>
+    <script src="%PUBLIC_URL%/assets/js/hs.slick-carousel.js"></script>
+    <script src="%PUBLIC_URL%/assets/vendor/hs-unfold/hs-unfold.min.js"></script>
+
+    <script>
+        function initTooltips() {
+            // Bootstrap Tooltips
+            $('[data-toggle="tooltip"]').tooltip();
+
+            // Bootstrap Popovers
+            $('[data-toggle="popover"]').popover();
+        }
+        function initDropdown() {
+            let unfold = new HSUnfold('.js-hs-unfold-invoker').init();
+        }
+        
+        function initSlickCarousel() {
+            // initialization of slick carousel
+            
+            $('.js-slick-carousel').each(function () {
+                var slickCarousel = $.HSCore.components.HSSlickCarousel.init($(this));
+            });
+        }
+    </script>
+    <script>
+        $(document).on('ready', function () {
+          // INITIALIZATION OF SLICK CAROUSEL
+          // =======================================================
+          initSlickCarousel()
+        });
+      </script>
+
+</body>
+
+</html>

@@ -1,0 +1,634 @@
+{
+  "engine_state": "Completed",
+  "progress": "100",
+  "result":
+  {
+    "author": "fing-agent 2.5.0 osx desktop",
+    "nicinfos":
+    [
+      {
+        "name": "en0",
+        "description": "en0",
+        "hardwareaddress": "F4:5C:89:C9:E7:D1",
+        "gatewayAddress": "192.168.1.254",
+        "defaultGateway": "true",
+        "address_list":
+        [
+          "192.168.1.184\/24 [192.168.1.255]",
+          "FE80:0000:0000:0000:1825:53CC:3EB2:F334\/128",
+          "2001:0B07:6468:59B8:0074:76BE:05D0:6A71\/128",
+          "2001:0B07:6468:59B8:2C75:4678:FD10:0A70\/128"
+        ],
+        "address": "192.168.1.184",
+        "netmask": "192.168.1.0\/24",
+        "type": "WIFI",
+        "state": "ACTIVE",
+        "addrmode": "DHCP",
+        "dhcpserver": "192.168.1.254",
+        "uplinknominalrate": "304200000",
+        "downlinknominalrate": "304200000",
+        "uplinkeffectiverate": "220610000",
+        "downlinkeffectiverate": "220610000",
+        "apbssid": "A6:91:B1:C0:AF:35",
+        "apssid": "Domus",
+        "signalstrength": "-43",
+        "channel": "60",
+        "tethered": "false",
+        "advanced": "false"
+      }
+    ],
+    "internetinfo":
+    {
+      "isp":
+      {
+        "country_city": "Rome",
+        "address": "93.34.208.144",
+        "host_name": "93-34-208-144.ip51.fastwebnet.it",
+        "latitude": "41.898000000000003",
+        "longitude": "12.512600000000001",
+        "timezone": "Europe\/Rome",
+        "organization": "Fastweb",
+        "isp": "Fastweb",
+        "country_name": "Italy",
+        "country_region": "Latium",
+        "country_code": "IT",
+        "continent_code": "EU",
+        "asn": "12874"
+      },
+      "ispinfo":
+      {
+        "id": "fastweb",
+        "countrycode": "IT",
+        "name": "Fastweb",
+        "logoimageurl": "\/isp\/IT\/logo\/fastweb_logo.png",
+        "bannerimageurl": "\/isp\/IT\/banner\/fastweb_banner.png",
+        "wikipediaid": "Fastweb",
+        "wikipedialangcode": "it",
+        "websiteurl": "https:\/\/www.fastweb.it",
+        "supporturl": "https:\/\/www.fastweb.it\/myfastweb\/assistenza\/?footer-portale=link-assistenza",
+        "supportphone": "192193",
+        "supportfacebookaccount": "Fastweb",
+        "supporttwitteraccount": "fastwebhelp",
+        "business": "true",
+        "fiber": "true",
+        "cellular": "true",
+        "residential": "true",
+        "organization": "false",
+        "ispstats":
+        {
+          "country": "IT",
+          "city": "Rome",
+          "isp": "Fastweb",
+          "downloadSpeedMbpsAvg": "77.965175938477572",
+          "uploadSpeedMbpsAvg": "37.229110145665921",
+          "samples": "909",
+          "downloadSpeedMbpsMin": "0.0070000000000000001",
+          "uploadSpeedMbpsMin": "0.050999999999999997",
+          "downloadSpeedMbpsMax": "907.32799999999997",
+          "uploadSpeedMbpsMax": "303.73700000000002",
+          "downloadSpeedMbpsStd": "106.77130808862316",
+          "uploadSpeedMbpsStd": "48.173050125876117",
+          "score": "0.59999999999999998",
+          "type": "BOX_MOBILE_WIFI",
+          "sentiment": "69",
+          "totalRatings": "63",
+          "sentimentDistrib":
+          [
+            "12",
+            "7",
+            "6",
+            "17",
+            "21"
+          ],
+          "globalScore": "0.88000000000000012",
+          "distribution": "0.22100656455142231",
+          "ispId": "Fastweb",
+          "countryCode": "IT",
+          "downloadSpeedTrend": "-0.00050715165423173894",
+          "uploadSpeedTrend": "-0.011633911817141126",
+          "scoreTrend": "0",
+          "globalScoreTrend": "-0.063829787234042493",
+          "sentimentTrend": "-0.041666666666666664",
+          "distributionTrend": "-0.01811347992755909"
+        },
+        "outagesSummary":
+        {
+          "startTime": "1614062707835",
+          "endTime": "1614667507835",
+          "totOutages": "0",
+          "maxSeverity": "0"
+        },
+        "homeprovider": "true"
+      }
+    },
+    "self":
+    {
+      "mac_address": "F4:5C:89:C9:E7:D1",
+      "address_list":
+      [
+        "192.168.1.184"
+      ],
+      "state": "UP",
+      "selfNode": "true",
+      "customChangeTime": "1595426712000",
+      "favorite": "true",
+      "important": "true",
+      "firstseentime": "1590761568000",
+      "lastseentime": "0",
+      "statechangetime": "1608297471790",
+      "prevstatetime": "1608293735494",
+      "statechangetimeout": "-600000",
+      "best_name": "C02RM4U7G8WP",
+      "best_type_id": "26",
+      "best_make_id": "4227",
+      "best_model_id": "229327",
+      "best_os_id": "31183",
+      "best_type": "LAPTOP",
+      "best_make": "Apple",
+      "best_model": "MacBook Pro 15\" (Mid 2015)",
+      "best_os": "macOS",
+      "best_osver": "20.3.0",
+      "best_osbuild": "20D74",
+      "best_family": "MacBook Pro 15\"",
+      "best_family_id": "228939",
+      "recog_rank": "100",
+      "best_sno": "C02RM4U7G8WP",
+      "host_name": "C02RM4U7G8WP",
+      "mac_vendor": "Apple",
+      "mac_vendor_changed": "1447891200000",
+      "last_dhcp_request_time": "1614667503294"
+    },
+    "gateway":
+    {
+      "mac_address": "A4:91:B1:C0:AF:2C",
+      "address_list":
+      [
+        "192.168.1.254"
+      ],
+      "state": "UP",
+      "customType": "ROUTER",
+      "customName": "Router Fastweb",
+      "customChangeTime": "1595422584000",
+      "favorite": "false",
+      "important": "false",
+      "firstseentime": "1559345433000",
+      "lastseentime": "0",
+      "statechangetime": "1595077670000",
+      "prevstatetime": "1594464335000",
+      "statechangetimeout": "-300000",
+      "best_name": "Router Fastweb",
+      "best_type_id": "69",
+      "best_make_id": "2849",
+      "best_model_id": "109968",
+      "best_type": "ROUTER",
+      "best_make": "Technicolor",
+      "best_model": "MediaAccess TG",
+      "best_family": "TG",
+      "best_family_id": "161782",
+      "isFamily": "true",
+      "recog_rank": "40",
+      "host_name": "myfastgate.lan",
+      "mac_vendor": "Technicolor",
+      "mac_vendor_changed": "1495238400000"
+    },
+    "network":
+    {
+      "address_type": "NTYPE_ETHWIFI",
+      "name": "Domus",
+      "firstDiscoveryTime": "1542226062000",
+      "sortOrder": "SOTYPE_STATE",
+      "context": "HOME",
+      "customName": "Marco Home Desko (Mod)",
+      "customNote": "With some notes",
+      "customLocation": "Park Avenue, New York, NJ, USA",
+      "alertOnNewNode": "true",
+      "defaultAlertForNewNode": "false",
+      "customLocationLatitude": "-73.939392999999995",
+      "internetspeedrating":
+      {
+        "timestamp": "1577805031000",
+        "name": "overall",
+        "rating": "80",
+        "subject":
+        {
+          "isp":
+          {
+            "name": "Fastweb",
+            "country": "IT",
+            "region": "Latium",
+            "city": "Rome"
+          }
+        },
+        "comment": "Fibra dell'anno!"
+      },
+      "bssid": "A6:91:B1:C0:AF:35",
+      "additionalbssids":
+      [
+        "A4:91:B1:C0:AF:2D",
+        "A4:91:B1:C0:AF:2C",
+        "02:00:00:00:00:00",
+        "00:18:4D:CC:A2:3C"
+      ],
+      "address": "192.168.1.0\/24",
+      "mask_prefix_length": "24",
+      "gateway_ip_address": "192.168.1.254",
+      "dns_address": "8.8.8.8"
+    },
+    "dhcpservers": "",
+    "mutedWarnings":
+    {
+      "gateway": "A4:91:B1:C0:AF:2C",
+      "network": "192.168.1.0\/24"
+    },
+    "reachCustomTargets":
+    {
+      "targets":
+      [
+        "https:\/\/wikipedia.org",
+        "https:\/\/youtube.com"
+      ]
+    },
+    "timestamp": "1614671139254",
+    "checks":
+    [
+      {
+        "timestamp": "1614671139483",
+        "segment": "local",
+        "type": "001",
+        "status": "OK",
+        "info": "Current IP is 192.168.1.184",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "0",
+        "segment": "local",
+        "type": "002",
+        "status": "SKIP",
+        "info": "",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139483",
+        "segment": "local",
+        "type": "003",
+        "status": "OK",
+        "info": "DHCP 192.168.1.254 assigned to network 192.168.1.184\/24",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139617",
+        "segment": "local",
+        "type": "004",
+        "status": "OK",
+        "info": "Computer local time is synchronized",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139490",
+        "segment": "local",
+        "type": "005",
+        "status": "OK",
+        "info": "DNS Servers 8.8.8.8 1.1.1.1",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139612",
+        "segment": "local",
+        "type": "006",
+        "status": "OK",
+        "info": "Current Gateway IP is 192.168.1.254",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671145844",
+        "segment": "local",
+        "type": "007",
+        "status": "OK",
+        "info": "Wi-Fi signal is good: 86%",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "0",
+        "segment": "local",
+        "type": "008",
+        "status": "SKIP",
+        "info": "",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139483",
+        "segment": "local",
+        "type": "009",
+        "status": "OK",
+        "info": "Connected to a Wireless network",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671145836",
+        "segment": "local",
+        "type": "00A",
+        "status": "INFO",
+        "info": "Additional DNS on Computer: 1.1.1.1\/8.8.8.8",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139483",
+        "segment": "network",
+        "type": "401",
+        "status": "OK",
+        "info": "Local network is 192.168.1.184\/24 via en0",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139483",
+        "segment": "network",
+        "type": "402",
+        "status": "WARN",
+        "info": "This is a manually-entered mock check",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139610",
+        "segment": "network",
+        "type": "403",
+        "status": "OK",
+        "info": "Route to Primary DNS 8.8.8.8 via en0",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139610",
+        "segment": "network",
+        "type": "404",
+        "status": "OK",
+        "info": "Route to Secondary DNS 1.1.1.1 via en0",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671141468",
+        "segment": "network",
+        "type": "405",
+        "status": "OK",
+        "info": "Route to 192.168.1.254 via en0",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671145829",
+        "segment": "network",
+        "type": "406",
+        "status": "OK",
+        "info": "Home network netmask is good: 192.168.1.0\/24, up to 256 devices",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671141468",
+        "segment": "network",
+        "type": "407",
+        "status": "OK",
+        "info": "Current Gateway MAC is A4:91:B1:C0:AF:2C",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "0",
+        "segment": "network",
+        "type": "408",
+        "status": "SKIP",
+        "info": "",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "0",
+        "segment": "network",
+        "type": "409",
+        "status": "SKIP",
+        "info": "",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "0",
+        "segment": "network",
+        "type": "40A",
+        "status": "SKIP",
+        "info": "",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139490",
+        "segment": "network",
+        "type": "40B",
+        "status": "INFO",
+        "info": "",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139490",
+        "segment": "network",
+        "type": "40E",
+        "status": "INFO",
+        "info": "",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139617",
+        "segment": "network",
+        "type": "40F",
+        "status": "OK",
+        "info": "",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671145680",
+        "segment": "network",
+        "type": "410",
+        "status": "OK",
+        "info": "Network has 9\/21 online devices",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671145680",
+        "segment": "network",
+        "type": "411",
+        "status": "INFO",
+        "info": "Network Gateway is Technicolor \/ MediaAccess TG",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671145836",
+        "segment": "network",
+        "type": "415",
+        "status": "OK",
+        "info": "Active DHCP is 192.168.1.254 (A4:91:B1:C0:AF:2C) on 192.168.1.0\/24",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671145836",
+        "segment": "network",
+        "type": "416",
+        "status": "OK",
+        "info": "Lease time 1 day, DNS 192.168.1.254, MTU not set, Domain lan",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671145864",
+        "segment": "network",
+        "type": "417",
+        "status": "INFO",
+        "info": "UPnP auto port forwarding active on gateway Technicolor \/ MediaAccess TG",
+        "muted": "false",
+        "premium": "true"
+      },
+      {
+        "timestamp": "1614671145881",
+        "segment": "network",
+        "type": "418",
+        "status": "SKIP",
+        "info": "NAT-PMP auto port forwarding active on gateway Technicolor \/ MediaAccess TG",
+        "muted": "false",
+        "premium": "true"
+      },
+      {
+        "timestamp": "1614671139617",
+        "segment": "internet",
+        "type": "801",
+        "status": "OK",
+        "info": "Connected to Internet via Fastweb in Italy, Internet IP 93.34.208.144",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139610",
+        "segment": "internet",
+        "type": "802",
+        "status": "OK",
+        "info": "Test domain ieee.org resolved by 8.8.8.8",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139847",
+        "segment": "internet",
+        "type": "804",
+        "status": "OK",
+        "info": "www.google.com is browsable",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671140410",
+        "segment": "internet",
+        "type": "805",
+        "status": "OK",
+        "info": "www.amazon.com is browsable",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671140812",
+        "segment": "internet",
+        "type": "806",
+        "status": "OK",
+        "info": "www.netflix.com is browsable",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671141143",
+        "segment": "internet",
+        "type": "807",
+        "status": "OK",
+        "info": "www.facebook.com is browsable",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671141304",
+        "segment": "internet",
+        "type": "808",
+        "status": "OK",
+        "info": "web.whatsapp.com is browsable",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671139617",
+        "segment": "internet",
+        "type": "809",
+        "status": "OK",
+        "info": "Fastweb had no widespread outage in the last 7 days",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "0",
+        "segment": "internet",
+        "type": "80B",
+        "status": "SKIP",
+        "info": "",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671141464",
+        "segment": "internet",
+        "type": "80C",
+        "status": "OK",
+        "info": "outlook.office.com is browsable",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "0",
+        "segment": "internet",
+        "type": "80D",
+        "status": "SKIP",
+        "info": "",
+        "muted": "false",
+        "premium": "false"
+      },
+      {
+        "timestamp": "1614671145881",
+        "segment": "internet",
+        "type": "80F",
+        "status": "INFO",
+        "info": "Gateway external private IP address: 100.104.89.184",
+        "muted": "false",
+        "premium": "true"
+      },
+      {
+        "timestamp": "1614671146283",
+        "segment": "internet",
+        "type": "810",
+        "status": "OK",
+        "info": "All 2 targets are reachable",
+        "muted": "false",
+        "premium": "true"
+      }
+    ]
+  }
+}

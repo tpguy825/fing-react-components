@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>shield_warn_24</title>
+    <g id="Status-Icon" stroke="current" stroke-width="1" fill="current" fill-rule="evenodd">
+        <g id="Status-Shield" transform="translate(-120.000000, 0.000000)" fill-rule="nonzero">
+            <g id="shield_warn_24" transform="translate(120.000000, 0.000000)">
+                <path d="M11.19,1.36 C11.7,1.13 12.3,1.13 12.81,1.36 L12.81,1.36 L19.81,4.47 C20.53,4.79 21,5.51 21,6.3 L21,6.3 L21,11 C21,16.55 17.16,21.74 12,23 C6.84,21.74 3,16.55 3,11 L3,11 L3,6.3 C3,5.51 3.47,4.79 4.19,4.47 L4.19,4.47 Z M13,15 L11,15 L11,17 L13,17 L13,15 Z M12,7 C11.45,7 11,7.45 11,8 L11,8 L11,12 C11,12.55 11.45,13 12,13 C12.55,13 13,12.55 13,12 L13,12 L13,8 C13,7.45 12.55,7 12,7 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

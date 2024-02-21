@@ -1,0 +1,1088 @@
+{
+  "AUTOMATIC": {
+    "profile": "Automatic",
+    "name": "automatic",
+    "caption": "Automatic",
+    "id": "dt_generic",
+    "group": "Automatic"
+  },
+  "STB": {
+    "profile": "DigitalMedia",
+    "name": "stb",
+    "caption": "Cable Box",
+    "id": "dt_stb",
+    "group": "Audio & Video"
+  },
+  "PRINT": {
+    "profile": "IT",
+    "name": "scanner",
+    "caption": "Scanner",
+    "id": "dt_scanner",
+    "group": "Home & Office"
+  },
+  "SLEEP": {
+    "profile": "SmartHome",
+    "name": "sleep",
+    "caption": "Sleep Tech",
+    "id": "dt_sleep",
+    "group": "Smart Home"
+  },
+  "NASACCESS": {
+    "profile": "IT",
+    "name": "vpn",
+    "caption": "VPN",
+    "id": "dt_vpn",
+    "group": "Network"
+  },
+  "SPRINKLER": {
+    "profile": "SmartHome",
+    "name": "sprinkler",
+    "caption": "Sprinkler",
+    "id": "dt_sprinkler",
+    "group": "Smart Home"
+  },
+  "TAPE": {
+    "profile": "IT",
+    "name": "nas_storage",
+    "caption": "NAS",
+    "id": "dt_nas_storage",
+    "group": "Network"
+  },
+  "UNDEFINED": {
+    "profile": "",
+    "name": "undefined",
+    "caption": "",
+    "id": "dt_undefined",
+    "group": ""
+  },
+  "APPLIANCE": {
+    "profile": "SmartHome",
+    "name": "appliance",
+    "caption": "Smart Appliance",
+    "id": "dt_appliance",
+    "group": "Smart Home"
+  },
+  "NETWORK_APPLIANCE": {
+    "profile": "IT",
+    "name": "network_appliance",
+    "caption": "Network Appliance",
+    "id": "dt_network_appliance",
+    "group": "Network"
+  },
+  "PROXY_SERVER": {
+    "profile": "IT",
+    "name": "proxy_server",
+    "caption": "Proxy Server",
+    "id": "dt_proxy_server",
+    "group": "Server"
+  },
+  "MAIL_SERVER": {
+    "profile": "IT",
+    "name": "mail_server",
+    "caption": "Mail Server",
+    "id": "dt_mail_server",
+    "group": "Server"
+  },
+  "GAME_CONSOLE": {
+    "profile": "Gaming",
+    "name": "game_console",
+    "caption": "Game Console",
+    "id": "dt_game_console",
+    "group": "Audio & Video"
+  },
+  "FIREWALL": {
+    "profile": "IT",
+    "name": "firewall",
+    "caption": "Firewall",
+    "id": "dt_firewall",
+    "group": "Network"
+  },
+  "BELL": {
+    "profile": "SmartHome",
+    "name": "bell",
+    "caption": "Doorbell",
+    "id": "dt_bell",
+    "group": "Smart Home"
+  },
+  "FRIDGE": {
+    "profile": "SmartHome",
+    "name": "fridge",
+    "caption": "Smart Fridge",
+    "id": "dt_fridge",
+    "group": "Smart Home"
+  },
+  "WIFI_EXTENDER": {
+    "profile": "Networking",
+    "name": "wifi_extender",
+    "caption": "Wi-Fi Extender",
+    "id": "dt_wifi_extender",
+    "group": "Network"
+  },
+  "EXPANSION_CARD": {
+    "profile": "IT",
+    "name": "circuit_card",
+    "caption": "Circuit Board",
+    "id": "dt_circuit_card",
+    "group": "Engineering"
+  },
+  "IPOD": {
+    "profile": "DigitalMedia",
+    "name": "ipod",
+    "caption": "MP3 Player",
+    "id": "dt_ipod",
+    "group": "Mobile"
+  },
+  "PHOTOS": {
+    "profile": "DigitalMedia",
+    "name": "photos",
+    "caption": "Photo Display",
+    "id": "dt_photos",
+    "group": "Audio & Video"
+  },
+  "PHOTO_CAMERA": {
+    "profile": "DigitalMedia",
+    "name": "photo_camera",
+    "caption": "Photo Camera",
+    "id": "dt_photo_camera",
+    "group": "Audio & Video"
+  },
+  "STREAMING_DONGLE": {
+    "profile": "DigitalMedia",
+    "name": "streaming_dongle",
+    "caption": "Streaming Dongle",
+    "id": "dt_streaming_dongle",
+    "group": "Audio & Video"
+  },
+  "VOLUME": {
+    "profile": "SmartHome",
+    "name": "sensor",
+    "caption": "Sensor",
+    "id": "dt_sensor",
+    "group": "Smart Home"
+  },
+  "ROUTER": {
+    "profile": "Networking",
+    "name": "router",
+    "caption": "Router",
+    "id": "dt_router",
+    "group": "Network"
+  },
+  "SOUND_SYSTEM": {
+    "profile": "DigitalMedia",
+    "name": "sound_system",
+    "caption": "AV Receiver",
+    "id": "dt_sound_system",
+    "group": "Audio & Video"
+  },
+  "CAMERA": {
+    "profile": "DigitalMedia",
+    "name": "photo_camera",
+    "caption": "Photo Camera",
+    "id": "dt_photo_camera",
+    "group": "Audio & Video"
+  },
+  "SENSOR": {
+    "profile": "SmartHome",
+    "name": "sensor",
+    "caption": "Sensor",
+    "id": "dt_sensor",
+    "group": "Smart Home"
+  },
+  "CONTROL_PANEL": {
+    "profile": "SmartHome",
+    "name": "control_panel",
+    "caption": "Touch Panel",
+    "id": "dt_control_panel",
+    "group": "Smart Home"
+  },
+  "DOMAIN_SERVER": {
+    "profile": "IT",
+    "name": "domain_server",
+    "caption": "Domain Server",
+    "id": "dt_domain_server",
+    "group": "Server"
+  },
+  "SURVEILLANCE_CAMERA": {
+    "profile": "Protection",
+    "name": "surveillance_camera",
+    "caption": "IP Camera",
+    "id": "dt_surveillance_camera",
+    "group": "Smart Home"
+  },
+  "AVRECEIVER": {
+    "profile": "DigitalMedia",
+    "name": "sound_system",
+    "caption": "AV Receiver",
+    "id": "dt_sound_system",
+    "group": "Audio & Video"
+  },
+  "DATABASE": {
+    "profile": "IT",
+    "name": "database",
+    "caption": "Database",
+    "id": "dt_database",
+    "group": "Server"
+  },
+  "POS": {
+    "profile": "Business",
+    "name": "pos",
+    "caption": "Point of Sale",
+    "id": "dt_pos",
+    "group": "Home & Office"
+  },
+  "ETHERNETPLUG": {
+    "profile": "Networking",
+    "name": "poe_plug",
+    "caption": "PoE Switch",
+    "id": "dt_poe_plug",
+    "group": "Network"
+  },
+  "WEB": {
+    "profile": "IT",
+    "name": "web_server",
+    "caption": "Web Server",
+    "id": "dt_web_server",
+    "group": "Server"
+  },
+  "MOTIONDETECTOR": {
+    "profile": "Protection",
+    "name": "motion_detector",
+    "caption": "Motion Detector",
+    "id": "dt_motion_detector",
+    "group": "Smart Home"
+  },
+  "PET_MONITOR": {
+    "profile": "SmartHome",
+    "name": "pet_monitor",
+    "caption": "Pet Monitor",
+    "id": "dt_pet_monitor",
+    "group": "Smart Home"
+  },
+  "MEDIA_PLAYER": {
+    "profile": "DigitalMedia",
+    "name": "media_player",
+    "caption": "Media Player",
+    "id": "dt_media_player",
+    "group": "Audio & Video"
+  },
+  "ACCESSPOINT": {
+    "profile": "Networking",
+    "name": "wifi_extender",
+    "caption": "Wi-Fi Extender",
+    "id": "dt_wifi_extender",
+    "group": "Network"
+  },
+  "CLOCK": {
+    "profile": "SmartHome",
+    "name": "clock",
+    "caption": "Clock",
+    "id": "dt_clock",
+    "group": "Home & Office"
+  },
+  "WIFI": {
+    "profile": "Networking",
+    "name": "wifi",
+    "caption": "Wi-Fi",
+    "id": "dt_wifi",
+    "group": "Network"
+  },
+  "TOY": {
+    "profile": "SmartHome",
+    "name": "toy",
+    "caption": "Toy",
+    "id": "dt_toy",
+    "group": "Smart Home"
+  },
+  "ARDUINO": {
+    "profile": "IT",
+    "name": "arduino",
+    "caption": "Arduino",
+    "id": "dt_arduino",
+    "group": "Engineering"
+  },
+  "TERMINAL": {
+    "profile": "IT",
+    "name": "terminal",
+    "caption": "Terminal",
+    "id": "dt_terminal",
+    "group": "Server"
+  },
+  "HEALTH_MONITOR": {
+    "profile": "SmartHome",
+    "name": "health_monitor",
+    "caption": "Health Monitor",
+    "id": "dt_health_monitor",
+    "group": "Smart Home"
+  },
+  "DOMAIN": {
+    "profile": "IT",
+    "name": "domain_server",
+    "caption": "Domain Server",
+    "id": "dt_domain_server",
+    "group": "Server"
+  },
+  "EBOOK": {
+    "profile": "DigitalMedia",
+    "name": "ereader",
+    "caption": "eBook Reader",
+    "id": "dt_ereader",
+    "group": "Mobile"
+  },
+  "WATCH": {
+    "profile": "Personal",
+    "name": "watch",
+    "caption": "Smart Watch",
+    "id": "dt_watch",
+    "group": "Mobile"
+  },
+  "CLEANER": {
+    "profile": "SmartHome",
+    "name": "cleaner",
+    "caption": "Smart Cleaner",
+    "id": "dt_cleaner",
+    "group": "Smart Home"
+  },
+  "TELEVISION": {
+    "profile": "DigitalMedia",
+    "name": "television",
+    "caption": "Television",
+    "id": "dt_television",
+    "group": "Audio & Video"
+  },
+  "GLASSES": {
+    "profile": "Personal",
+    "name": "wearable",
+    "caption": "Wearable",
+    "id": "dt_wearable",
+    "group": "Mobile"
+  },
+  "ENERGYMETER": {
+    "profile": "SmartHome",
+    "name": "smart_meter",
+    "caption": "Smart Meter",
+    "id": "dt_smart_meter",
+    "group": "Smart Home"
+  },
+  "SMALL_CELL": {
+    "profile": "IT",
+    "name": "small_cell",
+    "caption": "Small Cell",
+    "id": "dt_small_cell",
+    "group": "Network"
+  },
+  "INBOX": {
+    "profile": "IT",
+    "name": "mail_server",
+    "caption": "Mail Server",
+    "id": "dt_mail_server",
+    "group": "Server"
+  },
+  "SMART_CONTROLLER": {
+    "profile": "SmartHome",
+    "name": "smart_controller",
+    "caption": "Controller",
+    "id": "dt_smart_controller",
+    "group": "Smart Home"
+  },
+  "MEDIA_SERVER": {
+    "profile": "DigitalMedia",
+    "name": "media_player",
+    "caption": "Media Player",
+    "id": "dt_media_player",
+    "group": "Audio & Video"
+  },
+  "WALLPLUG": {
+    "profile": "SmartHome",
+    "name": "smart_plug",
+    "caption": "Smart Plug",
+    "id": "dt_smart_plug",
+    "group": "Smart Home"
+  },
+  "VIDEO_CAMERA": {
+    "profile": "DigitalMedia",
+    "name": "photo_camera",
+    "caption": "Photo Camera",
+    "id": "dt_photo_camera",
+    "group": "Audio & Video"
+  },
+  "FILE": {
+    "profile": "IT",
+    "name": "file_server",
+    "caption": "File Server",
+    "id": "dt_file_server",
+    "group": "Server"
+  },
+  "PROJECTOR": {
+    "profile": "DigitalMedia",
+    "name": "projector",
+    "caption": "Projector",
+    "id": "dt_projector",
+    "group": "Audio & Video"
+  },
+  "MUSIC": {
+    "profile": "DigitalMedia",
+    "name": "music",
+    "caption": "Audio Player",
+    "id": "dt_music",
+    "group": "Audio & Video"
+  },
+  "SMART_PLUG": {
+    "profile": "SmartHome",
+    "name": "smart_plug",
+    "caption": "Smart Plug",
+    "id": "dt_smart_plug",
+    "group": "Smart Home"
+  },
+  "WEATHER": {
+    "profile": "SmartHome",
+    "name": "weather",
+    "caption": "Weather Station",
+    "id": "dt_weather",
+    "group": "Smart Home"
+  },
+  "IMAC": {
+    "profile": "Personal",
+    "name": "desktop",
+    "caption": "Desktop",
+    "id": "dt_desktop",
+    "group": "Home & Office"
+  },
+  "NASSTORAGE": {
+    "profile": "IT",
+    "name": "nas_storage",
+    "caption": "NAS",
+    "id": "dt_nas_storage",
+    "group": "Network"
+  },
+  "USB": {
+    "profile": "IT",
+    "name": "usb",
+    "caption": "USB",
+    "id": "dt_usb",
+    "group": "Network"
+  },
+  "LOUDSPEAKER": {
+    "profile": "DigitalMedia",
+    "name": "loudspeaker",
+    "caption": "Speaker/Amp",
+    "id": "dt_loudspeaker",
+    "group": "Audio & Video"
+  },
+  "DESKTOP": {
+    "profile": "Personal",
+    "name": "desktop",
+    "caption": "Desktop",
+    "id": "dt_desktop",
+    "group": "Home & Office"
+  },
+  "SOLAR_PANEL": {
+    "profile": "SmartHome",
+    "name": "solar_panel",
+    "caption": "Solar Panel",
+    "id": "dt_solar_panel",
+    "group": "Smart Home"
+  },
+  "KEY_LOCK": {
+    "profile": "SmartHome",
+    "name": "key_lock",
+    "caption": "Smart Lock",
+    "id": "dt_key_lock",
+    "group": "Smart Home"
+  },
+  "MODEM": {
+    "profile": "Networking",
+    "name": "modem",
+    "caption": "Modem",
+    "id": "dt_modem",
+    "group": "Network"
+  },
+  "RFID": {
+    "profile": "IT",
+    "name": "rfid",
+    "caption": "RFID Tag",
+    "id": "dt_rfid",
+    "group": "Engineering"
+  },
+  "TABLET": {
+    "profile": "Personal",
+    "name": "tablet",
+    "caption": "Tablet",
+    "id": "dt_tablet",
+    "group": "Mobile"
+  },
+  "SCANNER": {
+    "profile": "IT",
+    "name": "scanner",
+    "caption": "Scanner",
+    "id": "dt_scanner",
+    "group": "Home & Office"
+  },
+  "BABY_MONITOR": {
+    "profile": "Protection",
+    "name": "baby_monitor",
+    "caption": "Baby Monitor",
+    "id": "dt_baby_monitor",
+    "group": "Smart Home"
+  },
+  "POWER_SYSTEM": {
+    "profile": "SmartHome",
+    "name": "power_system",
+    "caption": "Power System",
+    "id": "dt_power_system",
+    "group": "Smart Home"
+  },
+  "WEARABLE": {
+    "profile": "Personal",
+    "name": "wearable",
+    "caption": "Wearable",
+    "id": "dt_wearable",
+    "group": "Mobile"
+  },
+  "RADIO": {
+    "profile": "DigitalMedia",
+    "name": "radio",
+    "caption": "Radio",
+    "id": "dt_radio",
+    "group": "Audio & Video"
+  },
+  "VIRTUAL_MACHINE": {
+    "profile": "IT",
+    "name": "virtual_machine",
+    "caption": "Virtual Machine",
+    "id": "dt_virtual_machine",
+    "group": "Server"
+  },
+  "AIR_CONDITIONER": {
+    "profile": "SmartHome",
+    "name": "heating",
+    "caption": "HVAC",
+    "id": "dt_heating",
+    "group": "Smart Home"
+  },
+  "MOBILE": {
+    "profile": "Personal",
+    "name": "mobile",
+    "caption": "Mobile",
+    "id": "dt_mobile",
+    "group": "Mobile"
+  },
+  "TV": {
+    "profile": "DigitalMedia",
+    "name": "television",
+    "caption": "Television",
+    "id": "dt_television",
+    "group": "Audio & Video"
+  },
+  "ALARM": {
+    "profile": "Protection",
+    "name": "alarm",
+    "caption": "Alarm",
+    "id": "dt_alarm",
+    "group": "Smart Home"
+  },
+  "CIRCUIT_CARD": {
+    "profile": "IT",
+    "name": "circuit_card",
+    "caption": "Circuit Board",
+    "id": "dt_circuit_card",
+    "group": "Engineering"
+  },
+  "BARCODE": {
+    "profile": "Business",
+    "name": "barcode",
+    "caption": "Barcode Scanner",
+    "id": "dt_barcode",
+    "group": "Home & Office"
+  },
+  "MICROPHONE": {
+    "profile": "DigitalMedia",
+    "name": "microphone",
+    "caption": "Mic",
+    "id": "dt_microphone",
+    "group": "Audio & Video"
+  },
+  "EMAIL": {
+    "profile": "IT",
+    "name": "mail_server",
+    "caption": "Mail Server",
+    "id": "dt_mail_server",
+    "group": "Server"
+  },
+  "POE_PLUG": {
+    "profile": "Networking",
+    "name": "poe_plug",
+    "caption": "PoE Switch",
+    "id": "dt_poe_plug",
+    "group": "Network"
+  },
+  "SMART_METER": {
+    "profile": "SmartHome",
+    "name": "smart_meter",
+    "caption": "Smart Meter",
+    "id": "dt_smart_meter",
+    "group": "Smart Home"
+  },
+  "STEAMING": {
+    "profile": "DigitalMedia",
+    "name": "stb",
+    "caption": "Cable Box",
+    "id": "dt_stb",
+    "group": "Audio & Video"
+  },
+  "BACKUP": {
+    "profile": "IT",
+    "name": "nas_storage",
+    "caption": "NAS",
+    "id": "dt_nas_storage",
+    "group": "Network"
+  },
+  "NAS_STORAGE": {
+    "profile": "IT",
+    "name": "nas_storage",
+    "caption": "NAS",
+    "id": "dt_nas_storage",
+    "group": "Network"
+  },
+  "MAIL": {
+    "profile": "IT",
+    "name": "mail_server",
+    "caption": "Mail Server",
+    "id": "dt_mail_server",
+    "group": "Server"
+  },
+  "SMALLCELL": {
+    "profile": "IT",
+    "name": "small_cell",
+    "caption": "Small Cell",
+    "id": "dt_small_cell",
+    "group": "Network"
+  },
+  "MEDIA": {
+    "profile": "DigitalMedia",
+    "name": "media_player",
+    "caption": "Media Player",
+    "id": "dt_media_player",
+    "group": "Audio & Video"
+  },
+  "MEDIAPLAYER": {
+    "profile": "DigitalMedia",
+    "name": "media_player",
+    "caption": "Media Player",
+    "id": "dt_media_player",
+    "group": "Audio & Video"
+  },
+  "WEBCAM": {
+    "profile": "Protection",
+    "name": "surveillance_camera",
+    "caption": "IP Camera",
+    "id": "dt_surveillance_camera",
+    "group": "Smart Home"
+  },
+  "SCALE": {
+    "profile": "SmartHome",
+    "name": "scale",
+    "caption": "Scale",
+    "id": "dt_scale",
+    "group": "Smart Home"
+  },
+  "HEALTH": {
+    "profile": "SmartHome",
+    "name": "health_monitor",
+    "caption": "Health Monitor",
+    "id": "dt_health_monitor",
+    "group": "Smart Home"
+  },
+  "FINGBOX": {
+    "profile": "SmartHome",
+    "name": "fingbox",
+    "caption": "Fingbox",
+    "id": "dt_fingbox",
+    "group": "Smart Home"
+  },
+  "HARDDISK": {
+    "profile": "IT",
+    "name": "nas_storage",
+    "caption": "NAS",
+    "id": "dt_nas_storage",
+    "group": "Network"
+  },
+  "GATEWAY": {
+    "profile": "Networking",
+    "name": "gateway",
+    "caption": "Gateway",
+    "id": "dt_gateway",
+    "group": "Network"
+  },
+  "PROCESSOR": {
+    "profile": "IT",
+    "name": "processor",
+    "caption": "Processing Unit",
+    "id": "dt_processor",
+    "group": "Engineering"
+  },
+  "LIGHT": {
+    "profile": "SmartHome",
+    "name": "light",
+    "caption": "Light",
+    "id": "dt_light",
+    "group": "Smart Home"
+  },
+  "IPAD": {
+    "profile": "Personal",
+    "name": "tablet",
+    "caption": "Tablet",
+    "id": "dt_tablet",
+    "group": "Mobile"
+  },
+  "RASPBERRY": {
+    "profile": "IT",
+    "name": "raspberry",
+    "caption": "Raspberry",
+    "id": "dt_raspberry",
+    "group": "Engineering"
+  },
+  "DISCPLAYER": {
+    "profile": "DigitalMedia",
+    "name": "disc_player",
+    "caption": "Disc Player",
+    "id": "dt_disc_player",
+    "group": "Audio & Video"
+  },
+  "RAID": {
+    "profile": "IT",
+    "name": "nas_storage",
+    "caption": "NAS",
+    "id": "dt_nas_storage",
+    "group": "Network"
+  },
+  "EREADER": {
+    "profile": "DigitalMedia",
+    "name": "ereader",
+    "caption": "eBook Reader",
+    "id": "dt_ereader",
+    "group": "Mobile"
+  },
+  "VOICEMAIL": {
+    "profile": "IT",
+    "name": "phone",
+    "caption": "IP Phone",
+    "id": "dt_phone",
+    "group": "Home & Office"
+  },
+  "SMART_HOME": {
+    "profile": "SmartHome",
+    "name": "smart_home",
+    "caption": "Smart Device",
+    "id": "dt_smart_home",
+    "group": "Smart Home"
+  },
+  "GENERIC": {
+    "profile": "",
+    "name": "generic",
+    "caption": "Generic",
+    "id": "dt_generic",
+    "group": "Mobile"
+  },
+  "LAPTOP": {
+    "profile": "Personal",
+    "name": "laptop",
+    "caption": "Laptop",
+    "id": "dt_laptop",
+    "group": "Home & Office"
+  },
+  "CAR": {
+    "profile": "",
+    "name": "car",
+    "caption": "Car",
+    "id": "dt_car",
+    "group": "Mobile"
+  },
+  "CONSOLE": {
+    "profile": "Gaming",
+    "name": "game_console",
+    "caption": "Game Console",
+    "id": "dt_game_console",
+    "group": "Audio & Video"
+  },
+  "SWITCH": {
+    "profile": "Networking",
+    "name": "switch",
+    "caption": "Switch",
+    "id": "dt_switch",
+    "group": "Network"
+  },
+  "WASHER": {
+    "profile": "SmartHome",
+    "name": "washer",
+    "caption": "Smart Washer",
+    "id": "dt_washer",
+    "group": "Smart Home"
+  },
+  "REMOTE_CONTROL": {
+    "profile": "DigitalMedia",
+    "name": "remote_control",
+    "caption": "Remote Control",
+    "id": "dt_remote_control",
+    "group": "Audio & Video"
+  },
+  "COMMUNICATION": {
+    "profile": "IT",
+    "name": "communication",
+    "caption": "Communication",
+    "id": "dt_communication",
+    "group": "Server"
+  },
+  "MOTION_DETECTOR": {
+    "profile": "Protection",
+    "name": "motion_detector",
+    "caption": "Motion Detector",
+    "id": "dt_motion_detector",
+    "group": "Smart Home"
+  },
+  "DOMOTZ_BOX": {
+    "profile": "Networking",
+    "name": "domotz_box",
+    "caption": "Domotz Box",
+    "id": "dt_domotz_box",
+    "group": "Smart Home"
+  },
+  "SAN": {
+    "profile": "IT",
+    "name": "nas_storage",
+    "caption": "NAS",
+    "id": "dt_nas_storage",
+    "group": "Network"
+  },
+  "PROXY": {
+    "profile": "IT",
+    "name": "proxy_server",
+    "caption": "Proxy Server",
+    "id": "dt_proxy_server",
+    "group": "Server"
+  },
+  "GARAGE": {
+    "profile": "SmartHome",
+    "name": "garage",
+    "caption": "Garage Door",
+    "id": "dt_garage",
+    "group": "Smart Home"
+  },
+  "CLOUD": {
+    "profile": "IT",
+    "name": "cloud",
+    "caption": "Cloud",
+    "id": "dt_cloud",
+    "group": "Network"
+  },
+  "PHONE": {
+    "profile": "IT",
+    "name": "phone",
+    "caption": "IP Phone",
+    "id": "dt_phone",
+    "group": "Home & Office"
+  },
+  "PRESSURE": {
+    "profile": "SmartHome",
+    "name": "sensor",
+    "caption": "Sensor",
+    "id": "dt_sensor",
+    "group": "Smart Home"
+  },
+  "WEB_SERVER": {
+    "profile": "IT",
+    "name": "web_server",
+    "caption": "Web Server",
+    "id": "dt_web_server",
+    "group": "Server"
+  },
+  "VPN": {
+    "profile": "IT",
+    "name": "vpn",
+    "caption": "VPN",
+    "id": "dt_vpn",
+    "group": "Network"
+  },
+  "SERVER": {
+    "profile": "IT",
+    "name": "server",
+    "caption": "Server",
+    "id": "dt_server",
+    "group": "Server"
+  },
+  "COLLABORATION": {
+    "profile": "IT",
+    "name": "communication",
+    "caption": "Communication",
+    "id": "dt_communication",
+    "group": "Server"
+  },
+  "GAMECONSOLE": {
+    "profile": "Gaming",
+    "name": "game_console",
+    "caption": "Game Console",
+    "id": "dt_game_console",
+    "group": "Audio & Video"
+  },
+  "DISC_PLAYER": {
+    "profile": "DigitalMedia",
+    "name": "disc_player",
+    "caption": "Disc Player",
+    "id": "dt_disc_player",
+    "group": "Audio & Video"
+  },
+  "VOICE_CONTROL": {
+    "profile": "DigitalMedia",
+    "name": "voice_control",
+    "caption": "Voice Control",
+    "id": "dt_voice_control",
+    "group": "Smart Home"
+  },
+  "BATTERY": {
+    "profile": "IT",
+    "name": "battery",
+    "caption": "UPS",
+    "id": "dt_battery",
+    "group": "Network"
+  },
+  "ROBOT": {
+    "profile": "SmartHome",
+    "name": "robot",
+    "caption": "Robot",
+    "id": "dt_robot",
+    "group": "Smart Home"
+  },
+  "SATELLITE": {
+    "profile": "DigitalMedia",
+    "name": "satellite",
+    "caption": "Satellite",
+    "id": "dt_satellite",
+    "group": "Audio & Video"
+  },
+  "HUMIDITY": {
+    "profile": "Protection",
+    "name": "humidity",
+    "caption": "Water Sensor",
+    "id": "dt_humidity",
+    "group": "Smart Home"
+  },
+  "FILE_SERVER": {
+    "profile": "IT",
+    "name": "file_server",
+    "caption": "File Server",
+    "id": "dt_file_server",
+    "group": "Server"
+  },
+  "HEATING": {
+    "profile": "SmartHome",
+    "name": "heating",
+    "caption": "HVAC",
+    "id": "dt_heating",
+    "group": "Smart Home"
+  },
+  "PRINTER": {
+    "profile": "IT",
+    "name": "printer",
+    "caption": "Printer",
+    "id": "dt_printer",
+    "group": "Home & Office"
+  },
+  "COMPUTER": {
+    "profile": "Personal",
+    "name": "computer",
+    "caption": "Computer",
+    "id": "dt_computer",
+    "group": "Home & Office"
+  },
+  "SURVEILLANCE": {
+    "profile": "Protection",
+    "name": "surveillance_camera",
+    "caption": "IP Camera",
+    "id": "dt_surveillance_camera",
+    "group": "Smart Home"
+  },
+  "THERMOSTAT": {
+    "profile": "SmartHome",
+    "name": "thermostat",
+    "caption": "Thermostat",
+    "id": "dt_thermostat",
+    "group": "Smart Home"
+  },
+  "SMOKE": {
+    "profile": "Protection",
+    "name": "smoke",
+    "caption": "Smoke Detector",
+    "id": "dt_smoke",
+    "group": "Smart Home"
+  },
+  "FAX": {
+    "profile": "IT",
+    "name": "printer",
+    "caption": "Printer",
+    "id": "dt_printer",
+    "group": "Home & Office"
+  },
+  "INDUSTRIAL": {
+    "profile": "Business",
+    "name": "industrial",
+    "caption": "Industrial Device",
+    "id": "dt_industrial",
+    "group": "Industrial"
+  },
+  "MEDICAL": {
+    "profile": "Business",
+    "name": "medical",
+    "caption": "Medical Device",
+    "id": "dt_medical",
+    "group": "Industrial"
+  },
+  "AUTOMOTIVE": {
+    "profile": "Business",
+    "name": "automotive",
+    "caption": "Automotive",
+    "id": "dt_automotive",
+    "group": "Industrial"
+  },
+  "ENERGY": {
+    "profile": "Business",
+    "name": "energy",
+    "caption": "Energy",
+    "id": "dt_energy",
+    "group": "Industrial"
+  },
+  "VOIP": {
+    "profile": "IT",
+    "name": "voip",
+    "caption": "VoIP Device",
+    "id": "dt_voip",
+    "group": "Home & Office"
+  },
+  "CONFERENCING": {
+    "profile": "IT",
+    "name": "conferencing",
+    "caption": "Conferencing",
+    "id": "dt_conferencing",
+    "group": "Home & Office"
+  },
+  "SECURITY_SYSTEM": {
+    "profile": "Protection",
+    "name": "security_system",
+    "caption": "Security System",
+    "id": "dt_security_system",
+    "group": "Smart Home"
+  },
+  "FITNESS": {
+    "profile": "SmartHome",
+    "name": "fitness",
+    "caption": "Fitness",
+    "id": "dt_fitness",
+    "group": "Smart Home"
+  },
+  "POOL": {
+    "aliases": "",
+    "profile": "SmartHome",
+    "name": "pool",
+    "caption": "Pool",
+    "id": "dt_pool",
+    "group": "Smart Home"
+  }
+}

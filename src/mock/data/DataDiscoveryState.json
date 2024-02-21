@@ -1,0 +1,423 @@
+{
+    "discovery":
+    {
+        "engine_state": "completed",
+        "progress": "100",
+        "discovery":
+        {
+            "result_state": "enriched",
+            "last_scan_timestamp": "1667466371033",
+            "timestamp": "1667466371033",
+            "time_zone": "ora solare Europa occidentale",
+            "nodes_count": "4",
+            "nodes_up_count": "2",
+            "networkID": "wifi-E091F57D20C4",
+            "network":
+            {
+                "address_type": "NTYPE_ETHERNET",
+                "name": "dd-wrt",
+                "firstDiscoveryTime": "1657790156301",
+                "sortOrder": "SOTYPE_STATE",
+                "nodeViewFormat": "NVF_SIMPLE",
+                "context": "OFFICE",
+                "customName": "Colt in Rome (10.0.0.0\/24)",
+                "bssid": "E0:91:F5:7D:20:C4",
+                "address": "10.0.0.0\/24",
+                "mask_prefix_length": "24",
+                "gateway_ip_address": "10.0.0.1",
+                "gateway_mac_address": "E0:91:F5:7D:20:C2",
+                "dns_address": "10.0.0.1"
+            },
+            "lastinternetspeedtest":
+            {
+                "timestamp": "1657802443589",
+                "downloadbps": "323727000",
+                "uploadbps": "240532000",
+                "downloadInfo":
+                {
+                    "serverHost": "ndt-mlab2-mil05.mlab-oti.measurement-lab.org",
+                    "serverCountry": "IT",
+                    "serverCity": "Milan",
+                    "transferredBytes": "408428544"
+                },
+                "uploadInfo":
+                {
+                    "serverHost": "ndt-mlab2-mil05.mlab-oti.measurement-lab.org",
+                    "serverCountry": "IT",
+                    "serverCity": "Milan",
+                    "transferredBytes": "305987584"
+                },
+                "nicInfo":
+                {
+                    "hardwareaddress": "F8:4D:89:6A:D3:14",
+                    "type": "WIFI",
+                    "state": "ACTIVE",
+                    "addrmode": "DHCP",
+                    "dhcpserver": "192.168.1.1",
+                    "uplinknominalrate": "146080000",
+                    "downlinknominalrate": "146080000",
+                    "uplinkeffectiverate": "107020000",
+                    "downlinkeffectiverate": "107020000",
+                    "apbssid": "50:6A:03:C0:B4:BF",
+                    "apssid": "Fing",
+                    "signalstrength": "-54",
+                    "channel": "153",
+                    "apSecurityProtocol": "WPA2 Personal"
+                },
+                "rtd": "29",
+                "rtd_loss_perc": "0",
+                "rtd_jitter": "0.55555555555555558"
+            },
+            "internetinfo":
+            {
+                "isp":
+                {
+                    "country_city": "Toronto",
+                    "address": "147.182.151.50",
+                    "host_name": "147.182.151.50",
+                    "latitude": "43.654699999999998",
+                    "longitude": "-79.362300000000005",
+                    "timezone": "America\/Toronto",
+                    "organization": "Digital Ocean",
+                    "isp": "",
+                    "country_name": "Canada",
+                    "country_region": "Ontario",
+                    "country_code": "CA",
+                    "continent_code": "",
+                    "asn": "14061"
+                },
+                "ispinfo":
+                {
+                    "id": "digitalocean",
+                    "countrycode": "CA",
+                    "name": "DigitalOcean",
+                    "logoimageurl": "\/isp\/CA\/logo\/digital_ocean_logo.png",
+                    "wikipediaid": "DigitalOcean",
+                    "wikipedialangcode": "en",
+                    "websiteurl": "https:\/\/www.digitalocean.com",
+                    "supporturl": "https:\/\/www.digitalocean.com\/company\/contact",
+                    "supportfacebookaccount": "DigitalOceanCloudHosting",
+                    "supporttwitteraccount": "digitalocean",
+                    "business": "true",
+                    "fiber": "false",
+                    "cellular": "false",
+                    "residential": "false",
+                    "organization": "false",
+                    "ispstats":
+                    {
+                        "country": "CA",
+                        "city": "Toronto",
+                        "isp": "DigitalOcean",
+                        "downloadSpeedMbpsAvg": "10.416534848484856",
+                        "uploadSpeedMbpsAvg": "7.9873644444444434",
+                        "samples": "165",
+                        "downloadSpeedMbpsMin": "0.043999999999999997",
+                        "uploadSpeedMbpsMin": "0.41799999999999998",
+                        "downloadSpeedMbpsMax": "150.184",
+                        "uploadSpeedMbpsMax": "74.503",
+                        "downloadSpeedMbpsStd": "22.807678804788637",
+                        "uploadSpeedMbpsStd": "7.8597302282318227",
+                        "score": "0.25",
+                        "type": "BOX_MOBILE_WIFI",
+                        "sentiment": "74",
+                        "totalRatings": "22",
+                        "sentimentDistrib":
+                        [
+                            "6",
+                            "1",
+                            "0",
+                            "2",
+                            "13"
+                        ],
+                        "globalScore": "0.29999999999999999",
+                        "distribution": "0.068181818181818177",
+                        "ispId": "DigitalOcean",
+                        "countryCode": "CA",
+                        "downloadSpeedTrend": "-0.72692584140741179",
+                        "uploadSpeedTrend": "-0.49468246239589025",
+                        "scoreTrend": "-0.16666666666666663",
+                        "globalScoreTrend": "-0.37500000000000006",
+                        "sentimentTrend": "-0.17777777777777778",
+                        "distributionTrend": "0.0080419580419580222"
+                    }
+                }
+            },
+            "lastsecurityanalysis":
+            {
+                "score": "32"
+            },
+            "nicinfo":
+            {
+                "hardwareaddress": "A8:93:4A:F2:35:05",
+                "type": "WIFI",
+                "state": "ACTIVE",
+                "addrmode": "DHCP",
+                "dhcpserver": "10.0.0.1",
+                "uplinknominalrate": "144400000",
+                "downlinknominalrate": "144400000",
+                "uplinkeffectiverate": "144400000",
+                "downlinkeffectiverate": "144400000",
+                "apbssid": "E0:91:F5:7D:20:C4",
+                "apssid": "dd-wrt",
+                "signalstrength": "-50",
+                "channel": "6",
+                "wpsEnabled": "false",
+                "apSecurityProtocol": "WPA2 Personal"
+            },
+            "dhcpservers":
+            [
+                {
+                    "ip": "10.0.0.1",
+                    "mac": "E0:91:F5:7D:20:C2",
+                    "leaseTime": "86400000",
+                    "netmask": "255.255.255.0",
+                    "network": "10.0.0.0\/24",
+                    "networkSize": "256",
+                    "gateway": "10.0.0.1",
+                    "dnsservers":
+                    [
+                        {
+                            "dns": "10.0.0.1"
+                        }
+                    ],
+                    "ntpservers": "",
+                    "mtu": "0",
+                    "wpad": "http:\/\/127.0.0.1\/wpad.dat"
+                }
+            ],
+            "nodes":
+            [
+                {
+                    "mac_address": "E0:91:F5:7D:20:C2",
+                    "address_list":
+                    [
+                        "10.0.0.1"
+                    ],
+                    "state": "UP",
+                    "customChangeTime": "1667466347938",
+                    "favorite": "false",
+                    "important": "false",
+                    "firstseentime": "1657790156301",
+                    "lastseentime": "0",
+                    "statechangetime": "0",
+                    "statechangetimeout": "-600000",
+                    "best_name": "router",
+                    "best_type_id": "70",
+                    "best_make_id": "11895",
+                    "best_type": "WIFI",
+                    "best_make": "Netgear",
+                    "recog_rank": "29",
+                    "host_name": "DD-WRT",
+                    "mac_vendor": "Netgear",
+                    "mac_vendor_changed": "1446163200000",
+                    "upnp":
+                    {
+                        "name": "router",
+                        "make": "Dd-Wrt",
+                        "model": "router",
+                        "serialNumber": "0000001",
+                        "type_list":
+                        [
+                            "urn:schemas-upnp-org:device:InternetGatewayDevice:1",
+                            "urn:schemas-upnp-org:device:LANDevice:1",
+                            "urn:schemas-upnp-org:device:WANDevice:1"
+                        ],
+                        "service_list":
+                        [
+                            "urn:schemas-upnp-org:service:LANHostConfigManagement:1",
+                            "urn:schemas-upnp-org:service:Layer3Forwarding:1",
+                            "urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1"
+                        ]
+                    }
+                },
+                {
+                    "mac_address": "A8:93:4A:F2:35:05",
+                    "address_list":
+                    [
+                        "10.0.0.127"
+                    ],
+                    "state": "UP",
+                    "selfNode": "true",
+                    "customChangeTime": "1667466224864",
+                    "favorite": "false",
+                    "important": "false",
+                    "firstseentime": "1667466224864",
+                    "lastseentime": "0",
+                    "statechangetime": "1667466224864",
+                    "best_name": "LAPTOP-DOQFMCM3",
+                    "best_type_id": "26",
+                    "best_make_id": "11733",
+                    "best_model_id": "700804",
+                    "best_os_id": "58587",
+                    "best_type": "LAPTOP",
+                    "best_make": "Lenovo",
+                    "best_model": "IdeaPad 5 Pro 14\"",
+                    "best_os": "Windows",
+                    "best_osver": "11 Home",
+                    "best_osbuild": "22621",
+                    "best_family": "IdeaPad",
+                    "best_family_id": "618312",
+                    "recog_rank": "100",
+                    "best_sno": "MP25MPKM",
+                    "host_name": "LAPTOP-DOQFMCM3",
+                    "mac_vendor": "Chongqing Fugui Electronics",
+                    "mac_vendor_changed": "1612396800000",
+                    "logs":
+                    [
+                        {
+                            "time": "1667466224864",
+                            "state":
+                            {
+                                "change": "UP"
+                            },
+                            "sharptime": "1667466224864"
+                        }
+                    ],
+                    "dhcp6":
+                    {
+                        "name": "LAPTOP-DOQFMCM3",
+                        "vendor": "MSFT 5.0",
+                        "options": "1:8,1,3,39,16,6",
+                        "params": "17,23,24,39",
+                        "enterpriseid": "311"
+                    }
+                },
+                {
+                    "mac_address": "4C:E1:73:42:1B:45",
+                    "address_list":
+                    [
+                        "10.0.0.104"
+                    ],
+                    "state": "DOWN",
+                    "customChangeTime": "1657790156301",
+                    "favorite": "false",
+                    "important": "false",
+                    "firstseentime": "1657790156301",
+                    "lastseentime": "1657804024054",
+                    "statechangetime": "1667466224864",
+                    "statechangetimeout": "-600000",
+                    "best_name": "THYRQH6H2C",
+                    "best_type_id": "26",
+                    "best_make_id": "4227",
+                    "best_model_id": "696360",
+                    "best_os_id": "34606",
+                    "best_type": "LAPTOP",
+                    "best_make": "Apple",
+                    "best_model": "MacBook Pro M1 Max (14\") (2021)",
+                    "best_os": "macOS",
+                    "best_osver": "21",
+                    "best_family": "MacBook Pro",
+                    "best_family_id": "192513",
+                    "recog_rank": "43",
+                    "host_name": "THYRQH6H2C",
+                    "mac_vendor": "Huizhou Dehong Technology",
+                    "mac_vendor_changed": "1468713600000",
+                    "logs":
+                    [
+                        {
+                            "time": "1667466224864",
+                            "state":
+                            {
+                                "change": "DOWN"
+                            },
+                            "sharptime": "1657804024054"
+                        }
+                    ],
+                    "bonjour":
+                    {
+                        "name": "THYRQH6H2C",
+                        "serviceinfo_list":
+                        [
+                            {
+                                "name": "THYRQH6H2C._companion-link._tcp.local.",
+                                "addinfos":
+                                {
+                                    "rpAD": "dde069ee3218",
+                                    "rpBA": "AF:1B:6E:87:35:29",
+                                    "rpFl": "0x20000",
+                                    "rpHA": "695252b0f838",
+                                    "rpHI": "490b85c9072d",
+                                    "rpHN": "3488f51fb3e1",
+                                    "rpMac": "0",
+                                    "rpVr": "350.2"
+                                }
+                            },
+                            {
+                                "name": "THYRQH6H2C._device-info._tcp.local.",
+                                "addinfos":
+                                {
+                                    "icolor": "1",
+                                    "model": "MacBookPro18,4",
+                                    "osxvers": "21"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "mac_address": "5C:E0:C5:63:D9:F4",
+                    "address_list":
+                    [
+                        "10.0.0.139"
+                    ],
+                    "state": "DOWN",
+                    "customChangeTime": "1667466347938",
+                    "favorite": "false",
+                    "important": "false",
+                    "firstseentime": "1657790156301",
+                    "lastseentime": "1657790318604",
+                    "statechangetime": "1657804024054",
+                    "statechangetimeout": "-600000",
+                    "best_name": "DESKTOP-OSMVS2A",
+                    "best_type_id": "26",
+                    "best_make_id": "115",
+                    "best_model_id": "80908",
+                    "best_os_id": "6240",
+                    "best_type": "LAPTOP",
+                    "best_make": "Dell",
+                    "best_model": "Latitude E7450",
+                    "best_os": "Windows",
+                    "best_osver": "10",
+                    "best_osbuild": "19041",
+                    "best_family": "Latitude",
+                    "best_family_id": "167398",
+                    "recog_rank": "17",
+                    "mac_vendor": "Intel",
+                    "mac_vendor_changed": "1440633600000",
+                    "lastTcpServiceScanShot":
+                    {
+                        "timestamp": "1657790156301",
+                        "activePorts":
+                        [
+                            "139"
+                        ]
+                    },
+                    "logs":
+                    [
+                        {
+                            "time": "1657804024054",
+                            "state":
+                            {
+                                "change": "DOWN"
+                            },
+                            "sharptime": "1657790318604"
+                        }
+                    ],
+                    "netbios":
+                    {
+                        "name": "DESKTOP-OSMVS2A",
+                        "domain": "WORKGROUP",
+                        "is_file_server": "1",
+                        "mac": "5C:E0:C5:63:D9:F4"
+                    },
+                    "smbInfo":
+                    {
+                        "timestamp": "2147483647999",
+                        "nativeOS": "Windows:10.0.19041"
+                    }
+                }
+            ]
+        },
+        "snapshotTimestamp": "1667466376333"
+    }
+}

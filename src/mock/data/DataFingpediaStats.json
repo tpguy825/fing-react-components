@@ -1,0 +1,850 @@
+{
+    "recogCatalogStats":
+    {
+        "firstUpdateTime": "1581426960000",
+        "lastUpdateTime": "1643783700000",
+        "totalMakes": "23672",
+        "totalDevices": "246506",
+        "totalOses": "24515",
+        "ndlTotalDevices": "637545825",
+        "topMakeIds":
+        [
+            "4227",
+            "4819",
+            "712",
+            "5007",
+            "2650",
+            "576",
+            "115",
+            "7042",
+            "6106",
+            "7385",
+            "4700",
+            "11322",
+            "2925",
+            "965",
+            "11907",
+            "11733",
+            "11895",
+            "6296",
+            "9179",
+            "10673",
+            "9247",
+            "4105",
+            "6530",
+            "9914",
+            "9849",
+            "339",
+            "10536",
+            "8408",
+            "4142",
+            "3971"
+        ],
+        "totalsByType":
+        [
+            {
+                "name": "STB",
+                "value": "2505607"
+            },
+            {
+                "name": "SLEEP",
+                "value": "38"
+            },
+            {
+                "name": "SPRINKLER",
+                "value": "1074"
+            },
+            {
+                "name": "APPLIANCE",
+                "value": "616284"
+            },
+            {
+                "name": "INDUSTRIAL",
+                "value": "143013"
+            },
+            {
+                "name": "NETWORK_APPLIANCE",
+                "value": "45858"
+            },
+            {
+                "name": "CONFERENCING",
+                "value": "35503"
+            },
+            {
+                "name": "GAME_CONSOLE",
+                "value": "13714692"
+            },
+            {
+                "name": "FIREWALL",
+                "value": "169366"
+            },
+            {
+                "name": "BELL",
+                "value": "1857401"
+            },
+            {
+                "name": "FRIDGE",
+                "value": "7720"
+            },
+            {
+                "name": "WIFI_EXTENDER",
+                "value": "2129091"
+            },
+            {
+                "name": "IPOD",
+                "value": "256298"
+            },
+            {
+                "name": "PHOTOS",
+                "value": "53632"
+            },
+            {
+                "name": "PHOTO_CAMERA",
+                "value": "20832"
+            },
+            {
+                "name": "STREAMING_DONGLE",
+                "value": "8371264"
+            },
+            {
+                "name": "ROUTER",
+                "value": "10095830"
+            },
+            {
+                "name": "SOUND_SYSTEM",
+                "value": "891273"
+            },
+            {
+                "name": "SENSOR",
+                "value": "25400"
+            },
+            {
+                "name": "CONTROL_PANEL",
+                "value": "99727"
+            },
+            {
+                "name": "SURVEILLANCE_CAMERA",
+                "value": "6157697"
+            },
+            {
+                "name": "POS",
+                "value": "1300"
+            },
+            {
+                "name": "PET_MONITOR",
+                "value": "46"
+            },
+            {
+                "name": "POOL",
+                "value": "3"
+            },
+            {
+                "name": "MEDIA_PLAYER",
+                "value": "7926416"
+            },
+            {
+                "name": "WIFI",
+                "value": "37852662"
+            },
+            {
+                "name": "CLOCK",
+                "value": "62146"
+            },
+            {
+                "name": "ARDUINO",
+                "value": "106"
+            },
+            {
+                "name": "TERMINAL",
+                "value": "0"
+            },
+            {
+                "name": "HEALTH_MONITOR",
+                "value": "2962"
+            },
+            {
+                "name": "WATCH",
+                "value": "2891344"
+            },
+            {
+                "name": "CLEANER",
+                "value": "8662"
+            },
+            {
+                "name": "TELEVISION",
+                "value": "11737975"
+            },
+            {
+                "name": "SECURITY_SYSTEM",
+                "value": "344022"
+            },
+            {
+                "name": "SMALL_CELL",
+                "value": "3"
+            },
+            {
+                "name": "SMART_CONTROLLER",
+                "value": "1706924"
+            },
+            {
+                "name": "PROJECTOR",
+                "value": "18374"
+            },
+            {
+                "name": "MUSIC",
+                "value": "1903"
+            },
+            {
+                "name": "WEATHER",
+                "value": "46259"
+            },
+            {
+                "name": "SMART_PLUG",
+                "value": "688905"
+            },
+            {
+                "name": "USB",
+                "value": "2092"
+            },
+            {
+                "name": "LOUDSPEAKER",
+                "value": "4562899"
+            },
+            {
+                "name": "DESKTOP",
+                "value": "2608840"
+            },
+            {
+                "name": "KEY_LOCK",
+                "value": "9616"
+            },
+            {
+                "name": "MODEM",
+                "value": "0"
+            },
+            {
+                "name": "SOLAR_PANEL",
+                "value": "42300"
+            },
+            {
+                "name": "RFID",
+                "value": "4126"
+            },
+            {
+                "name": "SCANNER",
+                "value": "6487"
+            },
+            {
+                "name": "TABLET",
+                "value": "17948617"
+            },
+            {
+                "name": "BABY_MONITOR",
+                "value": "19460"
+            },
+            {
+                "name": "POWER_SYSTEM",
+                "value": "10812"
+            },
+            {
+                "name": "WEARABLE",
+                "value": "550"
+            },
+            {
+                "name": "RADIO",
+                "value": "29341"
+            },
+            {
+                "name": "VIRTUAL_MACHINE",
+                "value": "7965973"
+            },
+            {
+                "name": "MOBILE",
+                "value": "223821294"
+            },
+            {
+                "name": "FITNESS",
+                "value": "303319"
+            },
+            {
+                "name": "ALARM",
+                "value": "4472"
+            },
+            {
+                "name": "CIRCUIT_CARD",
+                "value": "7226"
+            },
+            {
+                "name": "VOIP",
+                "value": "229502"
+            },
+            {
+                "name": "BARCODE",
+                "value": "159"
+            },
+            {
+                "name": "POE_PLUG",
+                "value": "249"
+            },
+            {
+                "name": "SMART_METER",
+                "value": "9263"
+            },
+            {
+                "name": "NAS_STORAGE",
+                "value": "2821634"
+            },
+            {
+                "name": "SCALE",
+                "value": "193364"
+            },
+            {
+                "name": "FINGBOX",
+                "value": "44340"
+            },
+            {
+                "name": "GATEWAY",
+                "value": "887855"
+            },
+            {
+                "name": "ENERGY",
+                "value": "21513"
+            },
+            {
+                "name": "PROCESSOR",
+                "value": "4828"
+            },
+            {
+                "name": "LIGHT",
+                "value": "432746"
+            },
+            {
+                "name": "RASPBERRY",
+                "value": "34426"
+            },
+            {
+                "name": "EREADER",
+                "value": "25822"
+            },
+            {
+                "name": "MEDICAL",
+                "value": "1451"
+            },
+            {
+                "name": "SMART_HOME",
+                "value": "419298"
+            },
+            {
+                "name": "GENERIC",
+                "value": "915"
+            },
+            {
+                "name": "LAPTOP",
+                "value": "7458893"
+            },
+            {
+                "name": "CAR",
+                "value": "193058"
+            },
+            {
+                "name": "SWITCH",
+                "value": "1871961"
+            },
+            {
+                "name": "WASHER",
+                "value": "34075"
+            },
+            {
+                "name": "COMMUNICATION",
+                "value": "1"
+            },
+            {
+                "name": "REMOTE_CONTROL",
+                "value": "83984"
+            },
+            {
+                "name": "DOMOTZ_BOX",
+                "value": "17262"
+            },
+            {
+                "name": "GARAGE",
+                "value": "26143"
+            },
+            {
+                "name": "CLOUD",
+                "value": "8604"
+            },
+            {
+                "name": "AUTOMOTIVE",
+                "value": "18139"
+            },
+            {
+                "name": "PHONE",
+                "value": "1601078"
+            },
+            {
+                "name": "WEB_SERVER",
+                "value": "150"
+            },
+            {
+                "name": "VPN",
+                "value": "45881"
+            },
+            {
+                "name": "SERVER",
+                "value": "367863"
+            },
+            {
+                "name": "VOICE_CONTROL",
+                "value": "4701440"
+            },
+            {
+                "name": "DISC_PLAYER",
+                "value": "373059"
+            },
+            {
+                "name": "BATTERY",
+                "value": "136356"
+            },
+            {
+                "name": "ROBOT",
+                "value": "77"
+            },
+            {
+                "name": "SATELLITE",
+                "value": "8394"
+            },
+            {
+                "name": "HUMIDITY",
+                "value": "278"
+            },
+            {
+                "name": "FILE_SERVER",
+                "value": "13264"
+            },
+            {
+                "name": "HEATING",
+                "value": "263598"
+            },
+            {
+                "name": "PRINTER",
+                "value": "9355016"
+            },
+            {
+                "name": "COMPUTER",
+                "value": "363425"
+            },
+            {
+                "name": "SMOKE",
+                "value": "442955"
+            },
+            {
+                "name": "THERMOSTAT",
+                "value": "1490320"
+            }
+        ],
+        "modelsByType":
+        [
+            {
+                "name": "STB",
+                "value": "659"
+            },
+            {
+                "name": "SLEEP",
+                "value": "3"
+            },
+            {
+                "name": "SPRINKLER",
+                "value": "19"
+            },
+            {
+                "name": "APPLIANCE",
+                "value": "3269"
+            },
+            {
+                "name": "INDUSTRIAL",
+                "value": "482"
+            },
+            {
+                "name": "NETWORK_APPLIANCE",
+                "value": "161"
+            },
+            {
+                "name": "CONFERENCING",
+                "value": "22"
+            },
+            {
+                "name": "GAME_CONSOLE",
+                "value": "60"
+            },
+            {
+                "name": "FIREWALL",
+                "value": "366"
+            },
+            {
+                "name": "BELL",
+                "value": "40"
+            },
+            {
+                "name": "FRIDGE",
+                "value": "262"
+            },
+            {
+                "name": "WIFI_EXTENDER",
+                "value": "764"
+            },
+            {
+                "name": "IPOD",
+                "value": "24"
+            },
+            {
+                "name": "PHOTOS",
+                "value": "11"
+            },
+            {
+                "name": "PHOTO_CAMERA",
+                "value": "259"
+            },
+            {
+                "name": "STREAMING_DONGLE",
+                "value": "1290"
+            },
+            {
+                "name": "ROUTER",
+                "value": "10349"
+            },
+            {
+                "name": "SOUND_SYSTEM",
+                "value": "1327"
+            },
+            {
+                "name": "SENSOR",
+                "value": "67"
+            },
+            {
+                "name": "CONTROL_PANEL",
+                "value": "50"
+            },
+            {
+                "name": "SURVEILLANCE_CAMERA",
+                "value": "25936"
+            },
+            {
+                "name": "POS",
+                "value": "22"
+            },
+            {
+                "name": "PET_MONITOR",
+                "value": "8"
+            },
+            {
+                "name": "POOL",
+                "value": "1"
+            },
+            {
+                "name": "MEDIA_PLAYER",
+                "value": "8325"
+            },
+            {
+                "name": "WIFI",
+                "value": "7524"
+            },
+            {
+                "name": "CLOCK",
+                "value": "7"
+            },
+            {
+                "name": "ARDUINO",
+                "value": "7"
+            },
+            {
+                "name": "TERMINAL",
+                "value": "1"
+            },
+            {
+                "name": "HEALTH_MONITOR",
+                "value": "6"
+            },
+            {
+                "name": "WATCH",
+                "value": "118"
+            },
+            {
+                "name": "CLEANER",
+                "value": "121"
+            },
+            {
+                "name": "TELEVISION",
+                "value": "28123"
+            },
+            {
+                "name": "SECURITY_SYSTEM",
+                "value": "230"
+            },
+            {
+                "name": "SMALL_CELL",
+                "value": "1"
+            },
+            {
+                "name": "SMART_CONTROLLER",
+                "value": "530"
+            },
+            {
+                "name": "PROJECTOR",
+                "value": "117"
+            },
+            {
+                "name": "MUSIC",
+                "value": "35"
+            },
+            {
+                "name": "WEATHER",
+                "value": "23"
+            },
+            {
+                "name": "SMART_PLUG",
+                "value": "229"
+            },
+            {
+                "name": "USB",
+                "value": "22"
+            },
+            {
+                "name": "LOUDSPEAKER",
+                "value": "585"
+            },
+            {
+                "name": "DESKTOP",
+                "value": "23102"
+            },
+            {
+                "name": "KEY_LOCK",
+                "value": "67"
+            },
+            {
+                "name": "MODEM",
+                "value": "1"
+            },
+            {
+                "name": "SOLAR_PANEL",
+                "value": "51"
+            },
+            {
+                "name": "RFID",
+                "value": "3"
+            },
+            {
+                "name": "SCANNER",
+                "value": "25"
+            },
+            {
+                "name": "TABLET",
+                "value": "4084"
+            },
+            {
+                "name": "BABY_MONITOR",
+                "value": "11"
+            },
+            {
+                "name": "POWER_SYSTEM",
+                "value": "21"
+            },
+            {
+                "name": "WEARABLE",
+                "value": "10"
+            },
+            {
+                "name": "RADIO",
+                "value": "70"
+            },
+            {
+                "name": "VIRTUAL_MACHINE",
+                "value": "121"
+            },
+            {
+                "name": "MOBILE",
+                "value": "56222"
+            },
+            {
+                "name": "FITNESS",
+                "value": "17"
+            },
+            {
+                "name": "ALARM",
+                "value": "32"
+            },
+            {
+                "name": "CIRCUIT_CARD",
+                "value": "27"
+            },
+            {
+                "name": "VOIP",
+                "value": "178"
+            },
+            {
+                "name": "BARCODE",
+                "value": "4"
+            },
+            {
+                "name": "POE_PLUG",
+                "value": "3"
+            },
+            {
+                "name": "SMART_METER",
+                "value": "41"
+            },
+            {
+                "name": "NAS_STORAGE",
+                "value": "5816"
+            },
+            {
+                "name": "SCALE",
+                "value": "5"
+            },
+            {
+                "name": "FINGBOX",
+                "value": "2"
+            },
+            {
+                "name": "GATEWAY",
+                "value": "295"
+            },
+            {
+                "name": "ENERGY",
+                "value": "68"
+            },
+            {
+                "name": "PROCESSOR",
+                "value": "49"
+            },
+            {
+                "name": "LIGHT",
+                "value": "259"
+            },
+            {
+                "name": "RASPBERRY",
+                "value": "273"
+            },
+            {
+                "name": "EREADER",
+                "value": "50"
+            },
+            {
+                "name": "MEDICAL",
+                "value": "4"
+            },
+            {
+                "name": "SMART_HOME",
+                "value": "452"
+            },
+            {
+                "name": "GENERIC",
+                "value": "52"
+            },
+            {
+                "name": "LAPTOP",
+                "value": "28164"
+            },
+            {
+                "name": "CAR",
+                "value": "19"
+            },
+            {
+                "name": "SWITCH",
+                "value": "3771"
+            },
+            {
+                "name": "WASHER",
+                "value": "1315"
+            },
+            {
+                "name": "COMMUNICATION",
+                "value": "4"
+            },
+            {
+                "name": "REMOTE_CONTROL",
+                "value": "78"
+            },
+            {
+                "name": "DOMOTZ_BOX",
+                "value": "1"
+            },
+            {
+                "name": "GARAGE",
+                "value": "37"
+            },
+            {
+                "name": "CLOUD",
+                "value": "5"
+            },
+            {
+                "name": "AUTOMOTIVE",
+                "value": "1"
+            },
+            {
+                "name": "PHONE",
+                "value": "461"
+            },
+            {
+                "name": "WEB_SERVER",
+                "value": "19"
+            },
+            {
+                "name": "VPN",
+                "value": "28"
+            },
+            {
+                "name": "SERVER",
+                "value": "514"
+            },
+            {
+                "name": "VOICE_CONTROL",
+                "value": "104"
+            },
+            {
+                "name": "DISC_PLAYER",
+                "value": "1649"
+            },
+            {
+                "name": "BATTERY",
+                "value": "464"
+            },
+            {
+                "name": "ROBOT",
+                "value": "12"
+            },
+            {
+                "name": "SATELLITE",
+                "value": "38"
+            },
+            {
+                "name": "HUMIDITY",
+                "value": "25"
+            },
+            {
+                "name": "FILE_SERVER",
+                "value": "36"
+            },
+            {
+                "name": "HEATING",
+                "value": "248"
+            },
+            {
+                "name": "PRINTER",
+                "value": "20141"
+            },
+            {
+                "name": "COMPUTER",
+                "value": "3567"
+            },
+            {
+                "name": "SMOKE",
+                "value": "6"
+            },
+            {
+                "name": "THERMOSTAT",
+                "value": "88"
+            }
+        ]
+    }
+}

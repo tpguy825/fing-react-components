@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>clock_24</title>
+    <g id="Device-Types" stroke="none" stroke-width="1" fill="current" fill-rule="evenodd">
+        <g id="Home-&amp;-Office" transform="translate(-288.000000, -8.000000)" fill="current">
+            <g id="clock_24" transform="translate(288.000000, 8.000000)">
+                <path d="M21,0 L3,0 C1.346,0 0,1.346 0,3 L0,21 C0,22.655 1.346,24 3,24 L21,24 C22.654,24 24,22.655 24,21 L24,3 C24,1.346 22.654,0 21,0 L21,0 Z M12,20 C7.589,20 4,16.411 4,12 C4,7.589 7.589,4 12,4 C16.411,4 20,7.589 20,12 C20,16.411 16.411,20 12,20 L12,20 Z" id="Fill-68"></path>
+                <path d="M11.5,6 C10.9478576,6 10.5,6.44785763 10.5,7 L10.5,13 C10.5,13.2761424 10.7238576,13.5 11,13.5 L15,13.5 C15.5523336,13.5 16,13.0529519 16,12.5 L15.9932702,12.3834052 C15.9354883,11.886163 15.5127036,11.5 15,11.5 L12.5,11.5 L12.5,7 C12.5,6.44785763 12.0521424,6 11.5,6 Z" id="Fill-69" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

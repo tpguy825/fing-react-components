@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Friend</title>
+    <g id="Contact-Types" stroke="none" stroke-width="1" fill="current" fill-rule="evenodd">
+        <g id="Contact-Types-(24x24)" transform="translate(-24.000000, -72.000000)">
+            <g id="Other" transform="translate(0.000000, 72.000000)">
+                <g id="wine_bar-24px" transform="translate(24.000000, 0.000000)">
+                    <path d="M7,3 C6.45,3 6,3.45 6,4 L6,9 C6,11.97 8.16,14.43 11,14.91 L11,19 L9,19 C8.45,19 8,19.45 8,20 L8,20 C8,20.55 8.45,21 9,21 L15,21 C15.55,21 16,20.55 16,20 L16,20 C16,19.45 15.55,19 15,19 L13,19 L13,14.91 C15.84,14.43 18,11.97 18,9 L18,4 C18,3.45 17.55,3 17,3 L7,3 Z M16,8 L8,8 L8,5 L16,5 C16,5 16,8 16,8 Z" id="Shape" fill="current" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
